@@ -37,7 +37,7 @@ I have published more than 10+ papers with <a href='https://scholar.google.com/c
 
 [Vegetation structure and phenology primarily shape the spatiotemporal pattern of ecosystem respiration](https://doi.org/10.1038/s43247-025-02240-1)
 
-**Cenliang Zhao**, Wenquan Zhu✉️
+<u>**Cenliang Zhao**</u>, Wenquan Zhu^✉️^
 
 [**Project**](https://doi.org/10.1038/s43247-025-02240-1) 
 - We applied a causality constrained interpretable machine learning framework (PCMCI+, XGBoost, SHAP) and established a TER estimation model called “CIML-TER”.
@@ -46,12 +46,12 @@ I have published more than 10+ papers with <a href='https://scholar.google.com/c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AFM 2023</div><img src='images/AFM_2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 AFM </div><img src='images/AFM_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An end-to-end satellite-based GPP estimation model devoid of meteorological and land cover data](https://doi.org/10.1016/j.agrformet.2023.109337)
 
-Wenquan Zhu, **Cenliang Zhao✉️**, Zhiying Xie
+Wenquan Zhu, <u>**Cenliang Zhao^✉️^**</u>, Zhiying Xie
 
 [**Project**](https://doi.org/10.1016/j.agrformet.2023.109337) 
 - Build a new GPP estimation model (ETES) based entirely on remote sensing data.

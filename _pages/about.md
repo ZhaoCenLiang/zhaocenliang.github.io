@@ -46,7 +46,7 @@ I have published more than 10+ papers with <a href='https://scholar.google.com/c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 AFM </div><img src='images/AFM_2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AFM 2023</div><img src='images/AFM_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An end-to-end satellite-based GPP estimation model devoid of meteorological and land cover data](https://doi.org/10.1016/j.agrformet.2023.109337)
@@ -57,6 +57,18 @@ Wenquan Zhu, **<u>Cenliang Zhao✉️</u>**, Zhiying Xie
 - Build a new GPP estimation model (ETES) based entirely on remote sensing data.
 - Design a continuous variable set (SCVTG) to replace PFTs in GPP estimation.
 - ETES model improves the GPP estimation accuracy at multiple temporal scales. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">地理学报 2022</div><img src='images/DLXB_2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[北极气候和陆地环境变化对第一产业影响研究进展](https://doi.org/10.11821/dlxb202211010)
+
+**<u>赵涔良</u>**, 朱文泉✉️, 郭红翔, 陈力原, 谢志英
+
+[**Project**](https://doi.org/10.11821/dlxb202211010) 
+- 本文针对北极地区的种植业、畜牧业、林业以及渔业四个第一产业部门，系统梳理了它们受到气候及陆地环境变化影响的类型与程度。
 </div>
 </div>
 

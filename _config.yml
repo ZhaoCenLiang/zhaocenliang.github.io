@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Cenliang Zhao's Homepage"
-description              : "Ph.D.(c) Cartography and GIS, Beijing Normal University, China"
+description              : "Ph.D.(c) Cartography and GIS"
 repository               : "ZhaoCenLiang/zhaocenliang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Cenliang Zhao\(赵涔良)"
+  name             : "Cenliang Zhao (赵涔良)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Beijing Normal University"
   location         : "Beijing, China"

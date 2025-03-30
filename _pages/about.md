@@ -37,12 +37,26 @@ I have published more than 10+ papers with <a href='https://scholar.google.com/c
 
 [Vegetation structure and phenology primarily shape the spatiotemporal pattern of ecosystem respiration](https://doi.org/10.1038/s43247-025-02240-1)
 
-**Cenliang Zhao**, Wenquan Zhu
+**Cenliang Zhao**, Wenquan Zhu✉️
 
 [**Project**](https://doi.org/10.1038/s43247-025-02240-1) 
 - We applied a causality constrained interpretable machine learning framework (PCMCI+, XGBoost, SHAP) and established a TER estimation model called “CIML-TER”.
-- we generated high-accuracy global monthly [TER estimates](https://doi.org/10.6084/m9.figshare.27634203) at a spatial resolution of 0.05° during 2001-2020. 
+- We generated high-accuracy global monthly [TER estimates](https://doi.org/10.6084/m9.figshare.27634203) at a spatial resolution of 0.05° during 2001-2020. 
 - Substantial regional variability existed in the influence of different drivers on TER. Beyond hydrothermal factors (contributing ~44.15 ± 11.1% of global TER variability), biotic factors (25.91 ± 9.8%) and spatiotemporal variation factors (29.94 ± 7.2%) were also critical. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AFM 2023</div><img src='images/AFM_2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An end-to-end satellite-based GPP estimation model devoid of meteorological and land cover data](https://doi.org/10.1016/j.agrformet.2023.109337)
+
+Wenquan Zhu, **Cenliang Zhao✉️**, Zhiying Xie
+
+[**Project**](https://doi.org/10.1016/j.agrformet.2023.109337) 
+- Build a new GPP estimation model (ETES) based entirely on remote sensing data.
+- Design a continuous variable set (SCVTG) to replace PFTs in GPP estimation.
+- ETES model improves the GPP estimation accuracy at multiple temporal scales. 
 </div>
 </div>
 

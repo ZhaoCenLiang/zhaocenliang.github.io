@@ -156,7 +156,7 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 - *2024.01* Academic Innovation Award of Beijing Normal University 
 - *2023.12* Top Scholarship Award, Beijing Normal University (Postgraduate)
 - *2018.12* Top Scholarship Award, Beijing Normal University (Undergraduate)
-- *2017.11* The Excellent Award of 15th SuperMap GIS Contest (6th of final 10)
+- *2017.11* The Excellent Award of 15th SuperMap GIS Contest ([6th of final 10](http://www.giscontest.com/supergis/newview.asp?aid=806))
 - *2012.12* Lixin Tang Scholarship (High school)
 
 # 📖 Educations

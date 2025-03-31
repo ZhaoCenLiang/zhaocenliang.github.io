@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate (1997-now) in Cartography and GIS with expected graduation in June 2025.
+I am a Ph.D. candidate (born in 1997) in Cartography and GIS with expected graduation in June 2025.
 
 I graduated from Faculty of Geographical Science, Beijing Normal University (北京师范大学地理科学学部) with a bachelor’s degree and have been pursuing my Ph.D. degree at State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University (北京师范大学地理科学学部遥感科学国家重点实验室). My Ph.D. supervisor is [Wenquan Zhu (朱文泉)](https://geot.bnu.edu.cn/Public/htm/news/5/317.html).
 
@@ -146,6 +146,12 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 - 朱文泉, 何邦科, 谢志英, **<u>赵涔良</u>**. 一种基于曲线特征加权的植被指数时序数据函数拟合重建方法, 专利号: ZL 202210004927.7, 授权公告日: 2022-04-15.
 - 朱文泉, 詹培, **<u>赵涔良</u>**. 一种基于合成孔径雷达时序数据的水稻自动识别方法, 专利号: ZL 202010117995.5, 授权公告日: 2021-12-03.
 
+## Program experience
+- **国家自然科学基金面上项目**, "考虑森林群落结构及其季节动态的森林总初级生产力遥感估算方法研究", *2024.09 - 至今*, **研究骨干**。
+- **国家自然科学基金重大项目**, "地表异常遥感探测与即时诊断方法", 课题一“地表异常遥感响应特征与语义表征”, 子课题“地表异常遥感空间响应特征研究”, *2021.01 - 至今*, **参与**。
+- **国家重点研发计划课题**, "北极陆地环境变化对人类社会致利致害效应评估", *2020.11 — 至今*, **研究骨干**。
+- **第二次青藏科考研究项目**, "生物地球化学循环与环境健康"任务二之子专题“青藏高原植被图修订与更新”, *2020.06 — 2022.10*, **研究骨干**。
+
 # 🎖 Honors and Awards
 - *2024.01* Academic Innovation Award of Beijing Normal University 
 - *2023.12* Top Scholarship Award, Beijing Normal University (Postgraduate)
@@ -164,17 +170,17 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 **Satellite-ground synchronous in-situ dataset** <br>
 (**中国科学院空天信息创新研究院野外同步测量类数据集**) <br>
 As the team leader of field experiment, I conducted 10+ satellite synchronous ground observation experiments across multiple locations (including refelctance (地表反射率), water-leaving radiance (离水辐射率), albedo (地表反照率), emissivity (地表发射率), landsurface temperature (地表温度), FVC (植被覆盖度), vegetation type and phenology (植被类型和物候)).
-- *2022.09.03 - 2022.09.10* Saihanba, Heibei province (河北塞罕坝)
-- *2022.09.16 - 2022.09.23* Jiusan, Heilongjiang province (黑龙江九三)
-- *2023.02.24 - 2023.03.06* Zhuhai, Guangdong province (广东珠海)
-- *2023.05.21 - 2023.05.30* Jiusan, Heilongjiang province (黑龙江九三)
-- *2023.05.31 - 2023.06.12* Beitun, Xinjiang province (新疆北屯)
-- *2023.06.12 - 2023.06.17* Gaoyou, Jiangsu province (江苏高邮)
-- *2023.07.10 - 2023.07.24* Beitun, Xinjiang province (新疆北屯)
-- *2023.07.27 - 2023.07.30* Saihanba, Heibei province (河北塞罕坝)
-- *2023.08.10 - 2023.08.17* Gaoyou, Jiangsu province (江苏高邮)
-- *2023.09.24 - 2023.09.28* Saihanba, Heibei province (河北塞罕坝)
 - *2023.10.21 - 2023.10.26* Zhuhai, Guangdong province (广东珠海)
+- *2023.09.24 - 2023.09.28* Saihanba, Heibei province (河北塞罕坝)
+- *2023.08.10 - 2023.08.17* Gaoyou, Jiangsu province (江苏高邮)
+- *2023.07.27 - 2023.07.30* Saihanba, Heibei province (河北塞罕坝)
+- *2023.07.10 - 2023.07.24* Beitun, Xinjiang province (新疆北屯)
+- *2023.06.12 - 2023.06.17* Gaoyou, Jiangsu province (江苏高邮)
+- *2023.05.31 - 2023.06.12* Beitun, Xinjiang province (新疆北屯)
+- *2023.05.21 - 2023.05.30* Jiusan, Heilongjiang province (黑龙江九三)
+- *2023.02.24 - 2023.03.06* Zhuhai, Guangdong province (广东珠海)
+- *2022.09.16 - 2022.09.23* Jiusan, Heilongjiang province (黑龙江九三)
+- *2022.09.03 - 2022.09.10* Saihanba, Heibei province (河北塞罕坝)
 
 </div>
 </div>
@@ -182,8 +188,21 @@ As the team leader of field experiment, I conducted 10+ satellite synchronous gr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">202207 外业团队合影 (右2)</div><img src='images/202207_SHB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Instrument maintenance** <br>
-Replace the old phenology camera and update the battery and SEM card of soil moisture monitors.
+Replaced the old phenology camera and updated the battery and SEM card of soil moisture monitors.
 - *2022.07.21 - 2022.07.25* Saihanba, Heibei province (河北塞罕坝)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">202107 外业工作照 (左2)</div><img src='images/2021_TP.png' alt="sym" width="100%">
+<video width="320" height="240" controls>
+<source src="images/video.mp4" type="video/mp4">
+</video></div></div>
+<div class='paper-box-text' markdown="1">
+**The Second Tibetan Plateau Scientific Expedition and Research** <br>
+(**第二次青藏高原综合科学考察研究**) <br>
+Operated DJI Phantom 4 Pro drones for aerial data collection (20+ flight missions), generating high-resolution orthomosaic maps. Processed multispectral imagery with Pix4Dmapper to analyze vegetation coverage patterns. Compiled daily field logs.
+- *2021.07.21 - 2021.07.25* The Qilian Mountain, Qinghai province (青海祁连山脉). Survey Route: Menyuan (门源)– Gangcha (刚察) – Maduo (玛多)– Xinghai (兴海).
 
 </div>
 </div>

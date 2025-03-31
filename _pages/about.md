@@ -158,7 +158,7 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 - *2015.09 - 2019.06*, Resource and Environmental Science, Faculty of Geographical Science, Beijing Normal University, Beijing (北京师范大学地理科学学部 资源环境科学)
 - *2012.09 - 2015.06*, Science, Chengdu Shishi High School, Chengdu (成都石室中学-文庙校区 理科)
 
-# 🌏 Field Research & Experimentation
+# 🌏 Field Research and Experimentation
 - *中国科学院空天信息创新研究院野外同步测量类数据集*
 *2022.09*, Jiusan, Heilongjiang Province | ![2022_field](images/DLXB_2022.png)
 

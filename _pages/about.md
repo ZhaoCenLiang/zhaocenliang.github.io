@@ -27,6 +27,7 @@ I have published more than 20+ papers with <a href='https://scholar.google.com/c
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉 The global monthly TER product ([CIML-TER v1.0 2001-2020](https://doi.org/10.6084/m9.figshare.27634203)) was published, which does not rely on PFT classification data and overcomes the "artificial discontinuities" phenomenon. 
+- *2024.12*: &nbsp;👍 We have completed an 18-month-long field experiment, acquiring a satellite-ground synchronous in-situ dataset (including radiation and vegetation parameters) of domestically developed satellites (GF-1/2/3/4/6/7, ZY1-02D/02E, HJ-2A/B).
 
 # 💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=py,r,matlab,js,raspberrypi,linux,md)](https://skillicons.dev)
@@ -145,8 +146,8 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 - *2012.12* Lixin Tang Scholarship (High school)
 
 # 📖 Educations
-- *2019.09 - 2025.06 (now)*, Cartography and GIS, State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University (北京师范大学地理科学学部遥感科学国家重点实验室 地图学与地理信息系统)
-- *2015.09 - 2019.06*, Resource and Environmental Science, Faculty of Geographical Science, Beijing Normal University (北京师范大学地理科学学部 资源环境科学)
+- *2019.09 - 2025.06 (now)*, Cartography and GIS, State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University, Beijing (北京师范大学地理科学学部遥感科学国家重点实验室 地图学与地理信息系统)
+- *2015.09 - 2019.06*, Resource and Environmental Science, Faculty of Geographical Science, Beijing Normal University, Beijing (北京师范大学地理科学学部 资源环境科学)
 - *2012.09 - 2015.06*, Science, Chengdu Shishi High School, Chengdu (成都石室中学-文庙校区 理科)
 
 # 💬 Invited Talks

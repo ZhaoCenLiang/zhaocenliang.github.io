@@ -23,8 +23,10 @@ I graduated from Faculty of Geographical Science, Beijing Normal University (北
 
 My research interest includes carbon cycle modelling, quantitative remote sesning, digital image processing and climate change. 
 
-I have published more than 10+ papers with <a href='https://scholar.google.com/citations?user=deR-tUkAAAAJ'>h-index = <strong><span id='total_cit'>5</span></strong></a> (<a href='https://scholar.google.com/citations?user=deR-tUkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published more than 20+ papers with <a href='https://scholar.google.com/citations?user=deR-tUkAAAAJ'>h-index = <strong><span id='total_cit'>5</span></strong></a>.
 
+# 💻 Skills
+[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,js,raspberrypi,linux,md)](https://skillicons.dev)[![NAS](images/icons8-nas-96.png)]
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -116,11 +118,11 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 </div>
 
 - `TEE 2024`[Uncertainty analysis of intra-module environmental stress parameter design in light use efficiency-based gross primary productivity estimation models](https://doi.org/10.1177/2754124X241235545), **<u>Cenliang Zhao</u>**, Wenquan Zhu, *Transactions in Earth, Environment, and Sustainability*.
-- `GIScience & RS 2024` [Remote sensing of terrestrial gross primary productivity: a review of advances in theoretical foundation, key parameters and methods](https://doi.org/10.1080/15481603.2024.2318846), Wenquan Zhu, Zhiying Xie, **<u>Cenliang Zhao</u>**, et al., *GIScience & Remote Sensing*.
+- `GIScience & RS 2024` [Remote sensing of terrestrial gross primary productivity: a review of advances in theoretical foundation, key parameters and methods](https://doi.org/10.1080/15481603.2024.2318846), Wenquan Zhu, Zhiying Xie, **<u>Cenliang Zhao</u>**, Zhoutao Zheng, Kun Qiao, Dailiang Peng, Yongshuo H.Fu, *GIScience & Remote Sensing*.
 - `环境与健康杂志 2024` [基于微博数据的2011—2021年北京市花粉过敏暴发起止日期提取及变化分析](https://doi.org/10.16241/j.cnki.1001-5914.2024.02.007), 杨欣怡, 朱文泉, **<u>赵涔良</u>**, *环境与健康杂志*.
-- `极地研究 2023` [北极气候和陆地环境变化对工业影响的研究进展](https://doi.org/10.13679/j.jdyj.20220404), 郭红翔, 朱文泉, **<u>赵涔良</u>**, 等, *极地研究*.
+- `极地研究 2023` [北极气候和陆地环境变化对工业影响的研究进展](https://doi.org/10.13679/j.jdyj.20220404), 郭红翔, 朱文泉, **<u>赵涔良</u>**, 陈力原, 谢志英, *极地研究*.
 - `RS 2022` [A Prediction Model for the Outbreak Date of Spring Pollen Allergy in Beijing Based on Satellite-Derived Phenological Characteristics of Vegetation Greenness](https://doi.org/10.3390/rs14225891), Xinyi Yang, Wenquan Zhu, **<u>Cenliang Zhao</u>**, *Remote Sensing*.
-- `EJRS 2022` [Phenological piecewise modelling is more conducive than whole-season modelling to winter wheat yield estimation based on remote sensing data](https://doi.org/10.1080/22797254.2022.2073916), Xin Huang, Wenquan Zhu, **<u>Cenliang Zhao</u>**, *European Journal of Remote Sensing*.
+- `EJRS 2022` [Phenological piecewise modelling is more conducive than whole-season modelling to winter wheat yield estimation based on remote sensing data](https://doi.org/10.1080/22797254.2022.2073916), Xin Huang, Wenquan Zhu, **<u>Cenliang Zhao</u>**, Zhiying Xie, Hui Zhang, *European Journal of Remote Sensing*.
 - `北京师范大学学报（自然科学版） 2021` [基于多源数据产品集成分类制作的青藏高原现状植被图](https://doi.org/10.12202/j.0476-0301.2021171), 张慧, **<u>赵涔良</u>**, 朱文泉.
 
 ## Others

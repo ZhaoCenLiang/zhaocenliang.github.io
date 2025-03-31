@@ -161,7 +161,7 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 # 🌏 Field Research and Experimentation
 <div class='paper-box-text' markdown="1">
 **satellite-ground synchronous in-situ dataset** <br>
-(**中国科学院空天信息创新研究院野外同步测量类数据集**)
+(**中国科学院空天信息创新研究院野外同步测量类数据集**) <br>
 As the team leader, I conducted 10+ satellite synchronous ground observation experiments across multiple locations (including refelctance (地表反射率), water-leaving radiance (离水辐射率), albedo (地表反照率), emissivity (地表发射率), landsurface temperature (地表温度), FVC (植被覆盖度), vegetation type and phenology (植被类型和物候)).
 - *2022.09.03 - 2022.09.10* Saihanba, Heibei province (河北塞罕坝)
 - *2022.09.16 - 2022.09.23* Jiusan, Heilongjiang province (黑龙江九三)

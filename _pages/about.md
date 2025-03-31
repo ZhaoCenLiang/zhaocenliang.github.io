@@ -31,7 +31,6 @@ I have published more than 20+ papers with <a href='https://scholar.google.com/c
 
 # 💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=py,r,matlab,js,raspberrypi,linux,md)](https://skillicons.dev)
-## Field Competencies
 - **Geospatial Tools**: ArcGIS Pro, QGIS, ENVI, Google Earth Engine 
 - **Data Collection**: RTK GPS surveying, UAV photogrammetry, LiDAR scanning, Spectrum measurements (ASD FS4/HH2, PSR1100F, OceanOptics, CE-312, CNR4, MR-60, SI-111), AOD measurements (CE-318)
 

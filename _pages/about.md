@@ -32,13 +32,27 @@ I have published more than 10+ papers with <a href='https://scholar.google.com/c
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEE 2025</div><img src='images/CEE_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AFM 2025</div><img src='images/AFM_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Causality constrained machine learning framework enhances spatiotemporal generalization and interpretability of ecosystem respiration estimation (*under 2nd round review*)
+
+**<u>Cenliang Zhao</u>**, Wenquan Zhu<sup>✉️</sup>, Liyuan Chen, Zhiying Xie
+*Agricultural and Forest Meteorology* (SCI一区Top)
+- A novel framework taking causal effects as soft constraints into machine learning models.
+- This framework can enhance the interpretability and generalization ability of TER estimation. 
+- Vegetation structure’ effects on TER and corresponding seasonal variations were quantitatively revealed. 
+- We displayed the similarity and difference between two attribution tools (XGBoost, PCMCI) via visible ways for the first time.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AFM 2023</div><img src='images/AFM_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Vegetation structure and phenology primarily shape the spatiotemporal pattern of ecosystem respiration](https://doi.org/10.1038/s43247-025-02240-1)
 
-**<u>Cenliang Zhao</u>**, Wenquan Zhu✉️
-
+**<u>Cenliang Zhao</u>**, Wenquan Zhu<sup>✉️</sup>
+*Communications Earth & Environment* (SCI一区Top)
 - We applied a causality constrained interpretable machine learning framework (PCMCI+, XGBoost, SHAP) and established a TER estimation model called “CIML-TER”.
 - We generated high-accuracy global monthly [TER estimates](https://doi.org/10.6084/m9.figshare.27634203) at a spatial resolution of 0.05° during 2001-2020. 
 - Substantial regional variability existed in the influence of different drivers on TER. Beyond hydrothermal factors (contributing ~44.15 ± 11.1% of global TER variability), biotic factors (25.91 ± 9.8%) and spatiotemporal variation factors (29.94 ± 7.2%) were also critical. 
@@ -50,8 +64,8 @@ I have published more than 10+ papers with <a href='https://scholar.google.com/c
 
 [An end-to-end satellite-based GPP estimation model devoid of meteorological and land cover data](https://doi.org/10.1016/j.agrformet.2023.109337)
 
-Wenquan Zhu, **<u>Cenliang Zhao✉️</u>**, Zhiying Xie
-
+Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie
+*Agricultural and Forest Meteorology* (SCI一区Top)
 - Build a new GPP estimation model (ETES) based entirely on remote sensing data.
 - Design a continuous variable set (SCVTG) to replace PFTs in GPP estimation.
 - ETES model improves the GPP estimation accuracy at multiple temporal scales. 
@@ -63,10 +77,23 @@ Wenquan Zhu, **<u>Cenliang Zhao✉️</u>**, Zhiying Xie
 
 [北极气候和陆地环境变化对第一产业影响研究进展](https://doi.org/10.11821/dlxb202211010)
 
-**<u>赵涔良</u>**, 朱文泉✉️, 郭红翔, 陈力原, 谢志英
-
+**<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 郭红翔, 陈力原, 谢志英
+*地理学报* (中文核心, EI)
 - 本文针对北极地区的种植业、畜牧业、林业以及渔业四个第一产业部门，系统梳理了它们受到气候及陆地环境变化影响的类型与程度。
 - 气候及陆地环境变化对北极第一产业生产活动同时存在着积极影响与消极影响，并且在不同产业部门具有各异的表现形式与比重。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">遥感学报 2021</div><img src='images/YGXB_2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[植被最大光能利用率的模拟方法对比评估](https://doi.org/10.11834/jrs.20211394)
+
+**<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 谢志英
+*遥感学报* (中文核心, EI)
+- 因此，本文针对目前已有的3种典型动态LUE<sub>max</sub>参数模拟方法(基于叶绿素遥感指数、基于 LAI 季节调节因子、马尔可夫链蒙特卡洛模拟)进行了对比评估实验。
+- 不同的动态LUE<sub>max</sub>参数在各植被类型上的季节性变化特征有明显差异，总体上呈现出单峰、“U” 型和水平波动3种特征。
+- 马尔可夫链蒙特卡洛方法对LUE<sub>max</sub>参数有着较好的模拟效果，其在郁闭灌丛、落叶针叶林以及常绿阔叶林上对GPP估算的提升效果十分明显。
 </div>
 </div>
 

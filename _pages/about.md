@@ -177,7 +177,7 @@ As the team leader, I conducted 10+ satellite synchronous ground observation exp
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">202309 项目外业团队合影</div><img src='images/202309_GF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">202309 项目外业团队合影 (左6)</div><img src='images/202309_GF.png' alt="sym" width="100%"></div></div>
 
 # 🏫 Working and Teaching Activities
 - *2022.09 - 2023.12*, Teaching Assistant of [Remote Sensing Digital Image Processing](https://www.icourse163.org/course/BNU-1002335009) (国家精品课程-遥感数字图像处理), Faculty of Geographical Science, Beijing Normal University, Beijing, China

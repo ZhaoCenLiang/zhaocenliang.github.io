@@ -174,7 +174,7 @@ As the team leader of field experiment, I conducted 10+ satellite synchronous gr
 - *2023.09.24 - 2023.09.28* Saihanba, Heibei province (河北塞罕坝)
 - *2023.08.10 - 2023.08.17* Gaoyou, Jiangsu province (江苏高邮)
 - *2023.07.27 - 2023.07.30* Saihanba, Heibei province (河北塞罕坝)
-- *2023.07.10 - 2023.07.24* Beitun, Xinjiang province (新疆北屯)
+- *2023.07.10 - 2023.07.24* Beitun, Xinjiang province (新疆北屯)[news](http://www.bts.gov.cn/c/2023-07-19/2879847.shtml)
 - *2023.06.12 - 2023.06.17* Gaoyou, Jiangsu province (江苏高邮)
 - *2023.05.31 - 2023.06.12* Beitun, Xinjiang province (新疆北屯)
 - *2023.05.21 - 2023.05.30* Jiusan, Heilongjiang province (黑龙江九三)
@@ -200,9 +200,9 @@ Replaced the old phenology camera and updated the battery and SEM card of soil m
 (**第二次青藏高原综合科学考察研究**) <br>
 Operated DJI Phantom 4 Pro drones for aerial data collection (20+ flight missions), generating high-resolution orthomosaic maps. Processed multispectral imagery with Pix4Dmapper to analyze vegetation coverage patterns. Compiled daily field logs.
 - *2021.07.25 - 2021.08.24* The Qilian Mountain, Qinghai province (青海祁连山脉). Survey Route: Menyuan (门源)– Gangcha (刚察) – Maduo (玛多)– Xinghai (兴海). <br>
-<video width="320" height="240" controls>
+<center><video width="320" height="240" controls>
 <source src="images/video.mp4" type="video/mp4">
-</video>
+</video></center>
 </div>
 </div>
 

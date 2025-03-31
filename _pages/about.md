@@ -29,7 +29,7 @@ I have published more than 20+ papers with <a href='https://scholar.google.com/c
 - *2025.03*: &nbsp;🎉 The global monthly TER product (CIML-TER) was published, which does not rely on PFT classification data and overcomes the "artificial discontinuities" phenomenon. 
 
 # 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,js,raspberrypi,linux,md)](https://skillicons.dev)<img src='images/icons8-nas-96.png' width = "42px">
+[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,js,raspberrypi,linux,md)](https://skillicons.dev)
 
 # 📝 Publications 
 

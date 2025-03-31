@@ -109,14 +109,32 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 *遥感学报* (中文核心, EI) <br>
 **<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 谢志英
 
-- 因此，本文针对目前已有的3种典型动态LUE<sub>max</sub>参数模拟方法(基于叶绿素遥感指数、基于 LAI 季节调节因子、马尔可夫链蒙特卡洛模拟)进行了对比评估实验。
+- 本文针对目前已有的3种典型动态LUE<sub>max</sub>参数模拟方法(基于叶绿素遥感指数、基于 LAI 季节调节因子、马尔可夫链蒙特卡洛模拟)进行了对比评估实验。
 - 不同的动态LUE<sub>max</sub>参数在各植被类型上的季节性变化特征有明显差异，总体上呈现出单峰、“U” 型和水平波动3种特征。
 - 马尔可夫链蒙特卡洛方法对LUE<sub>max</sub>参数有着较好的模拟效果，其在郁闭灌丛、落叶针叶林以及常绿阔叶林上对GPP估算的提升效果十分明显。
 </div>
 </div>
 
 - `TEE 2024`[Uncertainty analysis of intra-module environmental stress parameter design in light use efficiency-based gross primary productivity estimation models](https://doi.org/10.1177/2754124X241235545), **<u>Cenliang Zhao</u>**, Wenquan Zhu, *Transactions in Earth, Environment, and Sustainability*.
-- `GIScience & RS 2024` [Remote sensing of terrestrial gross primary productivity: a review of advances in theoretical foundation, key parameters and methods](https://doi.org/10.1080/15481603.2024.2318846), Wenquan Zhu, Zhiying Xie, Cenliang Zhao, et al., *GIScience & Remote Sensing*.
+- `GIScience & RS 2024` [Remote sensing of terrestrial gross primary productivity: a review of advances in theoretical foundation, key parameters and methods](https://doi.org/10.1080/15481603.2024.2318846), Wenquan Zhu, Zhiying Xie, **<u>Cenliang Zhao</u>**, et al., *GIScience & Remote Sensing*.
+- `环境与健康杂志 2024` [基于微博数据的2011—2021年北京市花粉过敏暴发起止日期提取及变化分析](https://doi.org/10.16241/j.cnki.1001-5914.2024.02.007), 杨欣怡, 朱文泉, **<u>赵涔良</u>**, *环境与健康杂志*.
+- `极地研究 2023` [北极气候和陆地环境变化对工业影响的研究进展](https://doi.org/10.13679/j.jdyj.20220404), 郭红翔, 朱文泉, **<u>赵涔良</u>**, 等, *极地研究*.
+- `RS 2022` [A Prediction Model for the Outbreak Date of Spring Pollen Allergy in Beijing Based on Satellite-Derived Phenological Characteristics of Vegetation Greenness](https://doi.org/10.3390/rs14225891), Xinyi Yang, Wenquan Zhu, **<u>Cenliang Zhao</u>**, *Remote Sensing*.
+- `EJRS 2022` [Phenological piecewise modelling is more conducive than whole-season modelling to winter wheat yield estimation based on remote sensing data](https://doi.org/10.1080/22797254.2022.2073916), Xin Huang, Wenquan Zhu, **<u>Cenliang Zhao</u>**, *European Journal of Remote Sensing*.
+- `北京师范大学学报（自然科学版） 2021` [基于多源数据产品集成分类制作的青藏高原现状植被图](https://doi.org/10.12202/j.0476-0301.2021171), 张慧, **<u>赵涔良</u>**, 朱文泉.
+
+## Others
+- `ACCR 2025` [The freezing‒thawing index and permafrost extent in pan-Arctic experienced rapid changes following the global warming hiatus](https://doi.org/10.1016/j.accre.2025.02.010), Hongxiang Guo, Wenquan Zhu, Cunde Xiao, **<u>Cenliang Zhao</u>**, Liyuan Chen, *Advances in Climate Change Research*.
+- `ACCR 2025` [Degradation of potential winter roads threatens vulnerable communities’ freight accessibility in the pan-Arctic region](https://doi.org/10.1016/j.accre.2025.02.006), Liyuan Chen, Wenquan Zhu, Cunde Xiao, **<u>Cenliang Zhao</u>**, Hongxiang Guo, *Advances in Climate Change Research*.
+- `地理学报 2025` [青藏高原植被遥感精细识别方法研究](https://doi.org/10.11821/dlxb202501002), 张慧, 朱文泉, 史培军, 唐海萍, 何邦科, 刘若杨, 杨欣怡, **<u>赵涔良</u>**, *地理学报*
+- `JAG 2024` [High-precision estimation of pan-Arctic soil surface temperature from MODIS LST by incorporating multiple environment factors and monthly-based modeling](https://doi.org/10.1016/j.jag.2024.104114), Hongxiang Guo, Wenquan Zhu, Cunde Xiao, **<u>Cenliang Zhao</u>**, Liyuan Chen, *International Journal of Applied Earth Observation and Geoinformation*.
+- `生态学报 2024` [复杂地形区植被覆盖度遥感精细估算方法——以青藏高原山地区为例](https://doi.org/10.20103/j.stxb.202403260625), 何邦科, 朱文泉, 史培军, 张慧, 刘若杨, 杨欣怡,  **<u>赵涔良</u>**, *生态学报*.
+- `JAG 2024` [A new feature extraction algorithm for measuring the spatial arrangement of texture Primitives: Distance coding diversity](https://doi.org/10.1016/j.jag.2024.103698), Wenquan Zhu, Xinyi Yang, Ruoyang Liu, **<u>Cenliang Zhao</u>**, *International Journal of Applied Earth Observation and Geoinformation*.
+- `生态学报 2024` [青藏高原各主要植被类型特征及环境差异](https://doi.org/10.20103/j.stxb.202211163308), 张慧, 朱文泉, 史培军, **<u>赵涔良</u>**, 刘若杨, 唐海萍, 王静爱, 何邦科, *生态学报*.
+- `地理科学进展 2023` [北极气候与环境变化对第三产业影响的研究进展及展望](https://doi.org/10.18306/dlkxjz.2023.11.011), 陈力原, 朱文泉, 效存德, 王世金, 吴通华, **<u>赵涔良</u>**, 郭红翔, *地理科学进展*.
+- `地理学报 2023` [青藏高原植被产氧量及其对近地表大气氧含量的贡献率](https://doi.org/10.11821/dlxb202305006), 刘若杨, 史培军, 唐海萍, 王静爱, 赵涔良, 朱文泉, *地理学报*.
+- `RS 2022` [Reconstruction of Vegetation Index Time Series Based on Self-Weighting Function Fitting from Curve Features](https://doi.org/10.3390/rs14092247), Wenquan Zhu, Bangke He, Zhiying Xie, **<u>Cenliang Zhao</u>**, Huimin Zhuang, *Remote Sensing*.
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

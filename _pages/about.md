@@ -159,6 +159,7 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 - *2012.09 - 2015.06*, Science, Chengdu Shishi High School, Chengdu (成都石室中学-文庙校区 理科)
 
 # 🌏 Field Research and Experimentation
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">202309 项目外业团队合影 (左6)</div><img src='images/202309_GF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **satellite-ground synchronous in-situ dataset** <br>
 (**中国科学院空天信息创新研究院野外同步测量类数据集**) <br>
@@ -177,7 +178,6 @@ As the team leader, I conducted 10+ satellite synchronous ground observation exp
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">202309 项目外业团队合影 (左6)</div><img src='images/202309_GF.png' alt="sym" width="100%"></div></div>
 
 # 🏫 Working and Teaching Activities
 - *2022.09 - 2023.12*, Teaching Assistant of [Remote Sensing Digital Image Processing](https://www.icourse163.org/course/BNU-1002335009) (国家精品课程-遥感数字图像处理), Faculty of Geographical Science, Beijing Normal University, Beijing, China

@@ -32,8 +32,8 @@ I have published more than 20+ papers with <a href='https://scholar.google.com/c
 # 💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=py,r,matlab,js,raspberrypi,linux,md)](https://skillicons.dev)
 ## Field Competencies
-- **Geospatial Tools**: ArcGIS Pro | QGIS | ENVI | Google Earth Engine  
-- **Data Collection**: RTK GPS surveying | UAV photogrammetry | LiDAR scanning | Spectrum measurements (ASD FS4/HH2, PSR1100F, OceanOptics, CE-312, CNR4, MR-60, SI-111) | AOD measurements (CE-318)
+- **Geospatial Tools**: ArcGIS Pro, QGIS, ENVI, Google Earth Engine 
+- **Data Collection**: RTK GPS surveying, UAV photogrammetry, LiDAR scanning, Spectrum measurements (ASD FS4/HH2, PSR1100F, OceanOptics, CE-312, CNR4, MR-60, SI-111), AOD measurements (CE-318)
 
 # 📝 Publications 
 
@@ -159,9 +159,9 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 - *2015.09 - 2019.06*, Resource and Environmental Science, Faculty of Geographical Science, Beijing Normal University, Beijing (北京师范大学地理科学学部 资源环境科学)
 - *2012.09 - 2015.06*, Science, Chengdu Shishi High School, Chengdu (成都石室中学-文庙校区 理科)
 
-# 💬 Invited Talks
+# 💬 Field Research & Experimentation
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Working and Teaching Activities
+- *2022.09 - 2023.12*, Teaching Assistant of [Remote Sensing Digital Image Processing](https://www.icourse163.org/course/BNU-1002335009) (国家精品课程), Faculty of Geographical Science, Beijing Normal University, Beijing, China

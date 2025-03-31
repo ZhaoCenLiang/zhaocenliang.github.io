@@ -139,7 +139,7 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 - `地理科学进展 2023` [北极气候与环境变化对第三产业影响的研究进展及展望](https://doi.org/10.18306/dlkxjz.2023.11.011), 陈力原, 朱文泉, 效存德, 王世金, 吴通华, **<u>赵涔良</u>**, 郭红翔, *地理科学进展*.
 - `地理学报 2023` [青藏高原植被产氧量及其对近地表大气氧含量的贡献率](https://doi.org/10.11821/dlxb202305006), 刘若杨, 史培军, 唐海萍, 王静爱, 赵涔良, 朱文泉, *地理学报*.
 - `RS 2022` [Reconstruction of Vegetation Index Time Series Based on Self-Weighting Function Fitting from Curve Features](https://doi.org/10.3390/rs14092247), Wenquan Zhu, Bangke He, Zhiying Xie, **<u>Cenliang Zhao</u>**, Huimin Zhuang, *Remote Sensing*.
-- `植物生态学报 2021` [气候变暖背景下青藏高原草本植物物候变化空间换时间预测](https://doi.org/10.17521/cjpe.2019.0308),李雪莹 , 朱文泉, 李培先, 谢志英, 赵涔良, *植物生态学报*.
+- `植物生态学报 2021` [气候变暖背景下青藏高原草本植物物候变化空间换时间预测](https://doi.org/10.17521/cjpe.2019.0308), 李雪莹 , 朱文泉, 李培先, 谢志英, 赵涔良, *植物生态学报*.
 
 ## Patent
 - 朱文泉, 杨欣怡, 刘若杨, **<u>赵涔良</u>**. 一种面向单时相影像的潜在地表异常遥感探测器构建方法, 专利号: 2023113429156, 申请日: 2023-10-17.

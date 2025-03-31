@@ -26,7 +26,7 @@ My research interest includes carbon cycle modelling, quantitative remote sesnin
 I have published more than 20+ papers with <a href='https://scholar.google.com/citations?user=deR-tUkAAAAJ'>h-index = <strong><span id='total_cit'>5</span></strong></a>.
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉 The global monthly TER product (CIML-TER) was published, which does not rely on PFT classification data and overcomes the "artificial discontinuities" phenomenon. 
+- *2025.03*: &nbsp;🎉 The global monthly TER product ([CIML-TER v1.0 2001-2020](https://doi.org/10.6084/m9.figshare.27634203)) was published, which does not rely on PFT classification data and overcomes the "artificial discontinuities" phenomenon. 
 
 # 💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=py,r,matlab,js,raspberrypi,linux,md)](https://skillicons.dev)
@@ -138,12 +138,16 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 - `植物生态学报 2021` [气候变暖背景下青藏高原草本植物物候变化空间换时间预测](https://doi.org/10.17521/cjpe.2019.0308),李雪莹 , 朱文泉, 李培先, 谢志英, 赵涔良, *植物生态学报*.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01* Academic Innovation Award of Beijing Normal University 
+- *2023.12* Top Scholarship Award, Beijing Normal University (Postgraduate)
+- *2018.12* Top Scholarship Award, Beijing Normal University (Undergraduate)
+- *2017.11* The Excellent Award of 15th SuperMap GIS Contest (6th of final 10)
+- *2012.12* Lixin Tang Scholarship (High school)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2025.06 (now)*, Cartography and GIS, State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University (北京师范大学地理科学学部遥感科学国家重点实验室 地图学与地理信息系统)
+- *2015.09 - 2019.06*, Resource and Environmental Science, Faculty of Geographical Science, Beijing Normal University (北京师范大学地理科学学部 资源环境科学)
+- *2012.09 - 2015.06*, Science, Chengdu Shishi High School, Chengdu (成都石室中学-文庙校区 理科)
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

@@ -159,8 +159,8 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 - *2012.09 - 2015.06*, Science, Chengdu Shishi High School, Chengdu (成都石室中学-文庙校区 理科)
 
 # 🌏 Field Research & Experimentation
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *中国科学院空天信息创新研究院野外同步测量类数据集*
+*2022.09*, Jiusan, Heilongjiang Province | ![2022_field](images/DLXB_2022.png)
 
 # 🏫 Working and Teaching Activities
 - *2022.09 - 2023.12*, Teaching Assistant of [Remote Sensing Digital Image Processing](https://www.icourse163.org/course/BNU-1002335009) (国家精品课程), Faculty of Geographical Science, Beijing Normal University, Beijing, China

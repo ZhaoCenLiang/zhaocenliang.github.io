@@ -159,8 +159,25 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 - *2012.09 - 2015.06*, Science, Chengdu Shishi High School, Chengdu (成都石室中学-文庙校区 理科)
 
 # 🌏 Field Research and Experimentation
-- *中国科学院空天信息创新研究院野外同步测量类数据集*
-*2022.09*, Jiusan, Heilongjiang Province | ![2022_field](images/DLXB_2022.png)
+<div class='paper-box-text' markdown="1">
+**satellite-ground synchronous in-situ dataset** <br>
+(**中国科学院空天信息创新研究院野外同步测量类数据集**)
+As the team leader, I conducted 10+ satellite synchronous ground observation experiments across multiple locations (including refelctance (地表反射率), water-leaving radiance (离水辐射率), albedo (地表反照率), emissivity (地表发射率), landsurface temperature (地表温度), FVC (植被覆盖度), vegetation type and phenology (植被类型和物候)).
+- *2022.09.03 - 2022.09.10* Saihanba, Heibei province (河北塞罕坝)
+- *2022.09.16 - 2022.09.23* Jiusan, Heilongjiang province (黑龙江九三)
+- *2023.02.24 - 2023.03.06* Zhuhai, Guangdong province (广东珠海)
+- *2023.05.21 - 2023.05.30* Jiusan, Heilongjiang province (黑龙江九三)
+- *2023.05.31 - 2023.06.12* Beitun, Xinjiang province (新疆北屯)
+- *2023.06.12 - 2023.06.17* Gaoyou, Jiangsu province (江苏高邮)
+- *2023.07.10 - 2023.07.24* Beitun, Xinjiang province (新疆北屯)
+- *2023.07.27 - 2023.07.30* Saihanba, Heibei province (河北塞罕坝)
+- *2023.08.10 - 2023.08.17* Gaoyou, Jiangsu province (江苏高邮)
+- *2023.09.24 - 2023.09.28* Saihanba, Heibei province (河北塞罕坝)
+- *2023.10.21 - 2023.10.26* Zhuhai, Guangdong province (广东珠海)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">202309 项目外业团队合影</div><img src='images/202309_GF.png' alt="sym" width="100%"></div></div>
+</div>
+</div>
 
 # 🏫 Working and Teaching Activities
-- *2022.09 - 2023.12*, Teaching Assistant of [Remote Sensing Digital Image Processing](https://www.icourse163.org/course/BNU-1002335009) (国家精品课程), Faculty of Geographical Science, Beijing Normal University, Beijing, China
+- *2022.09 - 2023.12*, Teaching Assistant of [Remote Sensing Digital Image Processing](https://www.icourse163.org/course/BNU-1002335009) (国家精品课程-遥感数字图像处理), Faculty of Geographical Science, Beijing Normal University, Beijing, China

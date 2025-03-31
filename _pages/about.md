@@ -25,12 +25,11 @@ My research interest includes carbon cycle modelling, quantitative remote sesnin
 
 I have published more than 20+ papers with <a href='https://scholar.google.com/citations?user=deR-tUkAAAAJ'>h-index = <strong><span id='total_cit'>5</span></strong></a>.
 
-# 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,js,raspberrypi,linux,md)](https://skillicons.dev)[![NAS](images/icons8-nas-96.png)]
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03*: &nbsp;🎉 The global monthly TER product (CIML-TER) was published, which does not rely on PFT classification data and overcomes the "artificial discontinuities" phenomenon. 
+
+# 💻 Skills
+[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,js,raspberrypi,linux,md)](https://skillicons.dev)<img src='images/icons8-nas-96.png' width = "75%">
 
 # 📝 Publications 
 

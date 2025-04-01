@@ -188,7 +188,7 @@ As the team leader of field experiment, I conducted 10+ satellite synchronous gr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">202207 外业团队合影 (右2)</div><img src='images/202207_SHB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Instrument maintenance** <br>
-Replaced the old phenology camera and updated the battery and SEM card of soil moisture monitors.
+Replaced the old phenology camera and updated the battery and SIM card of soil moisture monitors.
 - *2022.07.21 - 2022.07.25* Saihanba, Heibei province (河北塞罕坝)
 
 </div>

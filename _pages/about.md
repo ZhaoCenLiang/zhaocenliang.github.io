@@ -157,7 +157,7 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 - *2023.12* Top Scholarship Award, Beijing Normal University (Postgraduate)
 - *2018.12* Top Scholarship Award, Beijing Normal University (Undergraduate)
 - *2017.11* The Excellent Award of 15th SuperMap GIS Contest ([6th of final 10](http://www.giscontest.com/supergis/newview.asp?aid=806))
-- *2012.12* Lixin Tang Scholarship (High school)
+- *2012.12* Lixin Tang (唐立新) Scholarship Award (High school)
 
 # 📖 Educations
 - *2019.09 - 2025.06 (now)*, Ph.D., Cartography and GIS, State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University, Beijing (北京师范大学地理科学学部遥感科学国家重点实验室 地图学与地理信息系统)

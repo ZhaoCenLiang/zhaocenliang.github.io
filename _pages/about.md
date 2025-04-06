@@ -33,7 +33,7 @@ I have published more than 20+ papers with <a href='https://scholar.google.com/c
 [![My Skills](https://skillicons.dev/icons?i=py,r,matlab,js,raspberrypi,linux,md)](https://skillicons.dev)
 - **Geospatial Tools**: ArcGIS Pro, QGIS, ENVI, Google Earth Engine 
 - **Data Collection**: RTK GPS surveying, UAV photogrammetry, LiDAR scanning, Spectrum measurements (ASD FS4/HH2, PSR1100F, OceanOptics, CE-312, CNR4, MR-60, SI-111), AOD measurements (CE-318)
-- **Language**: Putonghua Proficiency Test Level 2 Grade A(普通话水平测试二甲), International English Language Testing System (IELTS 6.5, 2019), Japanese Language Proficiency Test (JLPT N2, 2018)
+- **Language**: Putonghua Proficiency Test Level 2-A (普通话水平测试二甲), International English Language Testing System (IELTS 6.5, 2019), Japanese Language Proficiency Test (JLPT N2, 2018)
 
 # 📝 Publications 
 

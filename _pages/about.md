@@ -162,7 +162,7 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 - *2012.12* Lixin Tang (唐立新) Scholarship Award (High school)
 
 # 📖 Educations
-- *2019.09 - 2025.06 (now)*, Ph.D., Cartography and GIS, State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University, Beijing (北京师范大学地理科学学部遥感科学国家重点实验室 地图学与地理信息系统)
+- *2019.09 - 2025.06*, Ph.D., Cartography and GIS, State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University, Beijing (北京师范大学地理科学学部遥感科学国家重点实验室 地图学与地理信息系统)
 - *2015.09 - 2019.06*, B.S., Resource and Environmental Science, Faculty of Geographical Science, Beijing Normal University, Beijing (北京师范大学地理科学学部 资源环境科学)
 - *2012.09 - 2015.06*, Science, Chengdu Shishi High School, Chengdu (成都石室中学-文庙校区 理科)
 
@@ -196,7 +196,7 @@ Replaced the old phenology camera and updated the battery and SIM card of soil m
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">202107 外业工作照 (左2)</div><img src='images/2021_TP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">202107 外业工作照 (左2)</div><img src='images/2021_TP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **The Second Tibetan Plateau Scientific Expedition and Research** <br>
 (**第二次青藏高原综合科学考察研究**) <br>
@@ -209,4 +209,5 @@ Operated DJI Phantom 4 Pro drones for aerial data collection (20+ flight mission
 </div>
 
 # 🏫 Working and Teaching Activities
+- *2025.07 - 2027.09 (now)*, Postdoctoral Researcher, School of Geography and Planning, Sun Yat-sen University, Guangzhou, China
 - *2022.09 - 2023.12*, Teaching Assistant of [Remote Sensing Digital Image Processing](https://www.icourse163.org/course/BNU-1002335009) (国家精品课程-遥感数字图像处理), Faculty of Geographical Science, Beijing Normal University, Beijing, China

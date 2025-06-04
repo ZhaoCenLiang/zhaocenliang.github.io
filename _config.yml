@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Cenliang Zhao's Homepage"
-description              : "Ph.D.(c) Cartography and GIS"
+description              : "Postdoctoral Researcher at Sun Yat-sen University"
 repository               : "ZhaoCenLiang/zhaocenliang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Cenliang Zhao<br>赵涔良"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Beijing Normal University"
-  location         : "Beijing, China"
+  bio              : "Ph.D. in Cartography and GIS from Beijing Normal University"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=deR-tUkAAAAJ"

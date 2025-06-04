@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate (born in 1997) in Cartography and GIS with expected graduation in June 2025.
+I am going to be a postdoctoral researcher at Sun Yat-sen University, Guangzhou, China, collabrating with Prof. [Xing LI (李星)](https://gp.sysu.edu.cn/teacher/LiXing).
 
-I graduated from Faculty of Geographical Science, Beijing Normal University (北京师范大学地理科学学部) with a bachelor’s degree and have been pursuing my Ph.D. degree at State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University (北京师范大学地理科学学部遥感科学国家重点实验室). My Ph.D. supervisor is Prof. [Wenquan Zhu (朱文泉)](https://geot.bnu.edu.cn/Public/htm/news/5/317.html).
+I graduated from Faculty of Geographical Science, Beijing Normal University (北京师范大学地理科学学部) with a bachelor’s degree in Resources and Environmental Science. Then I received my Ph.D. degree in Cartography and Geography Information System at State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University (北京师范大学地理科学学部遥感科学国家重点实验室). My Ph.D. supervisor is Prof. [Wenquan Zhu (朱文泉)](https://geot.bnu.edu.cn/Public/htm/news/5/317.html).
 
 My research interests include carbon cycle modelling, quantitative remote sesning, digital image processing and climate change feedbacks. 
 
 I have published more than 20+ papers with <a href='https://scholar.google.com/citations?user=deR-tUkAAAAJ'>h-index = <strong><span id='total_cit'>6</span></strong></a>.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉 I got the Ph.D. degree in Cartography and Geography Information System. 
 - *2025.03*: &nbsp;🎉 The novel global monthly Terrestrial Ecosystem Respiration product ([CIML-TER v1.0 2001-2020](https://doi.org/10.6084/m9.figshare.27634203)) was published, which does not rely on PFT classification data and overcomes the "artificial discontinuities" phenomenon. 
 - *2023.10*: &nbsp;👍 We have completed an 13-month-long field experiment, acquiring a satellite-ground synchronous in-situ dataset (including radiation and vegetation parameters) of domestically developed satellites (GF-1/2/3/4/6/7, ZY1-02D/02E, HJ-2A/B).
 

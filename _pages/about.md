@@ -41,15 +41,15 @@ I have published more than 20+ papers with <a href='https://scholar.google.com/c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AFM 2025</div><img src='images/AFM_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Causality constrained machine learning framework enhances spatiotemporal generalization and interpretability of ecosystem respiration estimation (*under 2nd round review*)
+[Causality constrained machine learning framework enhances the reliability and spatiotemporal generalization in ecosystem respiration estimation](https://doi.org/10.1016/j.agrformet.2025.110718)
 
-*Agricultural and Forest Meteorology* (SCI一区Top) <br>
+*Agricultural and Forest Meteorology* (中科院1区Top, JCR-Q1) <br>
 **<u>Cenliang Zhao</u>**, Wenquan Zhu<sup>✉️</sup>, Liyuan Chen, Zhiying Xie
 
 - A novel framework taking causal effects as soft constraints into machine learning models.
-- This framework can enhance the interpretability and generalization ability of TER estimation. 
-- Vegetation structure’ effects on TER and corresponding seasonal variations were quantitatively revealed. 
-- We displayed the similarity and difference between two attribution tools (XGBoost, PCMCI) via visible ways for the first time.
+- Causality constraints can enhance the inference reliability of XGBoost algorithm. 
+- Vegetation structure’ effects on TER and corresponding seasonal variations were quantitatively revealed.
+- The similarity and difference between two attribution tools (XGBoost, PCMCI) were evaluated.
 </div>
 </div>
 
@@ -58,7 +58,7 @@ Causality constrained machine learning framework enhances spatiotemporal general
 
 [Vegetation structure and phenology primarily shape the spatiotemporal pattern of ecosystem respiration](https://doi.org/10.1038/s43247-025-02240-1)
 
-*Communications Earth & Environment* (SCI一区Top) <br>
+*Communications Earth & Environment* (中科院1区Top, JCR-Q1) <br>
 **<u>Cenliang Zhao</u>**, Wenquan Zhu<sup>✉️</sup>
 
 - We applied a causality constrained interpretable machine learning framework (PCMCI+, XGBoost, SHAP) and established a TER estimation model called “CIML-TER”.
@@ -72,7 +72,7 @@ Causality constrained machine learning framework enhances spatiotemporal general
 
 [An end-to-end satellite-based GPP estimation model devoid of meteorological and land cover data](https://doi.org/10.1016/j.agrformet.2023.109337)
 
-*Agricultural and Forest Meteorology* (SCI一区Top) <br>
+*Agricultural and Forest Meteorology* (中科院1区Top, JCR-Q1) <br>
 Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie
 
 - Build a new GPP estimation model (ETES) based entirely on remote sensing data.
@@ -81,52 +81,15 @@ Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2023</div><img src='images/RS_2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Radiation-Regulated Dynamic Maximum Light Use Efficiency for Improving Gross Primary Productivity Estimation](https://doi.org/10.3390/rs15051176)
-
-*Remote Sensing* (SCI二区) <br>
-Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, Yongshuo H.Fu
-
-- We proposed a PAR-regulated dynamic LUE<sub>max</sub> by considering the nonlinear response of vegetation photosynthesis to solar radiation.
-- The PAR-LUE outperfromed the MODIS and EC-LUE models in GPP estimation.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">地理学报 2022</div><img src='images/DLXB_2022.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[北极气候和陆地环境变化对第一产业影响研究进展](https://doi.org/10.11821/dlxb202211010)
-
-*地理学报* (中文核心, EI) <br>
-**<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 郭红翔, 陈力原, 谢志英
-
-- 本文针对北极地区的种植业、畜牧业、林业以及渔业四个第一产业部门，系统梳理了它们受到气候及陆地环境变化影响的类型与程度。
-- 气候及陆地环境变化对北极第一产业生产活动同时存在着积极影响与消极影响，并且在不同产业部门具有各异的表现形式与比重。
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">遥感学报 2021</div><img src='images/YGXB_2021.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[植被最大光能利用率的模拟方法对比评估](https://doi.org/10.11834/jrs.20211394)
-
-*遥感学报* (中文核心, EI) <br>
-**<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 谢志英
-
-- 本文针对目前已有的3种典型动态LUE<sub>max</sub>参数模拟方法(基于叶绿素遥感指数、基于 LAI 季节调节因子、马尔可夫链蒙特卡洛模拟)进行了对比评估实验。
-- 不同的动态LUE<sub>max</sub>参数在各植被类型上的季节性变化特征有明显差异，总体上呈现出单峰、“U” 型和水平波动3种特征。
-- 马尔可夫链蒙特卡洛方法对LUE<sub>max</sub>参数有着较好的模拟效果，其在郁闭灌丛、落叶针叶林以及常绿阔叶林上对GPP估算的提升效果十分明显。
-</div>
-</div>
-
 - `TEE 2024`[Uncertainty analysis of intra-module environmental stress parameter design in light use efficiency-based gross primary productivity estimation models](https://doi.org/10.1177/2754124X241235545), **<u>Cenliang Zhao</u>**, Wenquan Zhu, *Transactions in Earth, Environment, and Sustainability*.
 - `GIScience & RS 2024` [Remote sensing of terrestrial gross primary productivity: a review of advances in theoretical foundation, key parameters and methods](https://doi.org/10.1080/15481603.2024.2318846), Wenquan Zhu, Zhiying Xie, **<u>Cenliang Zhao</u>**, Zhoutao Zheng, Kun Qiao, Dailiang Peng, Yongshuo H.Fu, *GIScience & Remote Sensing*.
 - `环境与健康杂志 2024` [基于微博数据的2011—2021年北京市花粉过敏暴发起止日期提取及变化分析](https://doi.org/10.16241/j.cnki.1001-5914.2024.02.007), 杨欣怡, 朱文泉, **<u>赵涔良</u>**, *环境与健康杂志*.
+- `Remote Sensing 2023` [A Radiation-Regulated Dynamic Maximum Light Use Efficiency for Improving Gross Primary Productivity Estimation](https://doi.org/10.3390/rs15051176), Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, Yongshuo H.Fu
 - `极地研究 2023` [北极气候和陆地环境变化对工业影响的研究进展](https://doi.org/10.13679/j.jdyj.20220404), 郭红翔, 朱文泉, **<u>赵涔良</u>**, 陈力原, 谢志英, *极地研究*.
+- `地理学报 2023` [北极气候和陆地环境变化对第一产业影响研究进展](https://doi.org/10.11821/dlxb202211010), **<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 郭红翔, 陈力原, 谢志英
 - `RS 2022` [A Prediction Model for the Outbreak Date of Spring Pollen Allergy in Beijing Based on Satellite-Derived Phenological Characteristics of Vegetation Greenness](https://doi.org/10.3390/rs14225891), Xinyi Yang, Wenquan Zhu, **<u>Cenliang Zhao</u>**, *Remote Sensing*.
 - `EJRS 2022` [Phenological piecewise modelling is more conducive than whole-season modelling to winter wheat yield estimation based on remote sensing data](https://doi.org/10.1080/22797254.2022.2073916), Xin Huang, Wenquan Zhu, **<u>Cenliang Zhao</u>**, Zhiying Xie, Hui Zhang, *European Journal of Remote Sensing*.
+- `遥感学报 2021` [植被最大光能利用率的模拟方法对比评估](https://doi.org/10.11834/jrs.20211394), **<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 郭红翔, 陈力原, 谢志英
 - `北京师范大学学报（自然科学版） 2021` [基于多源数据产品集成分类制作的青藏高原现状植被图](https://doi.org/10.12202/j.0476-0301.2021171), 张慧, **<u>赵涔良</u>**, 朱文泉.
 
 ## Others
@@ -150,9 +113,9 @@ Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, 
 - 朱文泉, 詹培, **<u>赵涔良</u>**. 一种基于合成孔径雷达时序数据的水稻自动识别方法, 专利号: ZL 202010117995.5, 授权公告日: 2021-12-03.
 
 ## Program experience
-- **国家自然科学基金面上项目**, "考虑森林群落结构及其季节动态的森林总初级生产力遥感估算方法研究", *2024.09 - 至今*, **研究骨干**
-- **国家自然科学基金重大项目**, "地表异常遥感探测与即时诊断方法", 课题一“地表异常遥感响应特征与语义表征”, 子课题“地表异常遥感空间响应特征研究”, *2021.01 - 至今*, **参与**
-- **国家重点研发计划课题**, "北极陆地环境变化对人类社会致利致害效应评估", *2020.11 — 至今*, **研究骨干**
+- **国家自然科学基金面上项目**, "考虑森林群落结构及其季节动态的森林总初级生产力遥感估算方法研究", *2024.09 - 2025.06*, **研究骨干**
+- **国家自然科学基金重大项目**, "地表异常遥感探测与即时诊断方法", 课题一“地表异常遥感响应特征与语义表征”, 子课题“地表异常遥感空间响应特征研究”, *2021.01 - 2025.06*, **参与**
+- **国家重点研发计划课题**, "北极陆地环境变化对人类社会致利致害效应评估", *2020.11 — 2025.06*, **研究骨干**
 - **第二次青藏科考研究项目**, "生物地球化学循环与环境健康"任务二之子专题“青藏高原植被图修订与更新”, *2020.06 — 2022.10*, **研究骨干**
 
 # 🎖 Honors and Awards
@@ -210,5 +173,5 @@ Operated DJI Phantom 4 Pro drones for aerial data collection (20+ flight mission
 </div>
 
 # 🏫 Working and Teaching Activities
-- *2025.07 - 2027.09 (now)*, Postdoctoral Researcher, School of Geography and Planning, Sun Yat-sen University, Guangzhou, China
+- *2025.07 - now*, Postdoctoral Researcher, School of Geography and Planning, Sun Yat-sen University, Guangzhou, China
 - *2022.09 - 2023.12*, Teaching Assistant of [Remote Sensing Digital Image Processing](https://www.icourse163.org/course/BNU-1002335009) (国家精品课程-遥感数字图像处理), Faculty of Geographical Science, Beijing Normal University, Beijing, China

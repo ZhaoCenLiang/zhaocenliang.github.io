@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral researcher (born in 1997) at School of Geography and Planning, Sun Yat-sen University, Guangzhou, China, collabrating with Prof. [Xing Li (李星)](https://gp.sysu.edu.cn/teacher/LiXing).
+I am a postdoctoral researcher (born in 1997) at School of Geography and Planning, Sun Yat-sen University (中山大学地理科学与规划学院), Guangzhou, Guangdong, China, collabrating with Prof. [Xing Li (李星)](https://gp.sysu.edu.cn/teacher/LiXing).
 
 I graduated from Faculty of Geographical Science, Beijing Normal University (北京师范大学地理科学学部) with a bachelor’s degree in Resources and Environmental Science. Then I received my Ph.D. degree in Cartography and Geography Information System at State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University (北京师范大学地理科学学部遥感科学国家重点实验室). My Ph.D. supervisor is Prof. [Wenquan Zhu (朱文泉)](https://geot.bnu.edu.cn/Public/htm/news/5/317.html).
 

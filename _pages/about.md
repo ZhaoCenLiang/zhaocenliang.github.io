@@ -27,8 +27,8 @@ I have published more than 20+ papers with <a href='https://scholar.google.com/c
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉 I got the Ph.D. degree in Cartography and Geography Information System. 
-- *2025.03*: &nbsp;🎉 The novel global monthly Terrestrial Ecosystem Respiration product ([CIML-TER v1.0 2001-2020](https://doi.org/10.6084/m9.figshare.27634203)) was published, which does not rely on PFT classification data and overcomes the "artificial discontinuities" phenomenon. 
-- *2023.10*: &nbsp;👍 We have completed an 13-month-long field experiment, acquiring a satellite-ground synchronous in-situ dataset (including radiation and vegetation parameters) of domestically developed satellites (GF-1/2/3/4/6/7, ZY1-02D/02E, HJ-2A/B).
+- *2025.04*: &nbsp;🎉 The global carborn cycle dataset ([ETES-GPP](https://doi.org/10.1016/j.agrformet.2023.109337) and [CIML-TER](https://doi.org/10.1016/j.agrformet.2025.110718), 0.05 degree, monthly) are officially online at [BNU dataset center](https://rsec.bnu.edu.cn/download/carbonCycle.html).
+- *2023.10*: &nbsp;👍 We have completed an 13-month-long field experiment, acquiring a satellite-ground synchronous in-situ dataset (including radiation and vegetation parameters) of Chinese satellites (GF-1/2/3/4/6/7, ZY1-02D/02E, HJ-2A/B).
 
 # 💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=py,r,matlab,js,raspberrypi,linux,md)](https://skillicons.dev)
@@ -81,18 +81,20 @@ Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie
 </div>
 </div>
 
-- `TEE 2024`[Uncertainty analysis of intra-module environmental stress parameter design in light use efficiency-based gross primary productivity estimation models](https://doi.org/10.1177/2754124X241235545), **<u>Cenliang Zhao</u>**, Wenquan Zhu, *Transactions in Earth, Environment, and Sustainability*.
+- `TEE 2024`[Uncertainty analysis of intra-module environmental stress parameter design in light use efficiency-based gross primary productivity estimation models](https://doi.org/10.1177/2754124X241235545), **<u>Cenliang Zhao</u>**, Wenquan Zhu<sup>✉️</sup>, *Transactions in Earth, Environment, and Sustainability*.
+- `RS 2023` [A Radiation-Regulated Dynamic Maximum Light Use Efficiency for Improving Gross Primary Productivity Estimation](https://doi.org/10.3390/rs15051176), Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, Yongshuo H.Fu
+- `地理学报 2022` [北极气候和陆地环境变化对第一产业影响研究进展](https://doi.org/10.11821/dlxb202211010), **<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 郭红翔, 陈力原, 谢志英
+- `遥感学报 2021` [植被最大光能利用率的模拟方法对比评估](https://doi.org/10.11834/jrs.20211394), **<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 郭红翔, 陈力原, 谢志英
+
+## As main co-author
 - `GIScience & RS 2024` [Remote sensing of terrestrial gross primary productivity: a review of advances in theoretical foundation, key parameters and methods](https://doi.org/10.1080/15481603.2024.2318846), Wenquan Zhu, Zhiying Xie, **<u>Cenliang Zhao</u>**, Zhoutao Zheng, Kun Qiao, Dailiang Peng, Yongshuo H.Fu, *GIScience & Remote Sensing*.
 - `环境与健康杂志 2024` [基于微博数据的2011—2021年北京市花粉过敏暴发起止日期提取及变化分析](https://doi.org/10.16241/j.cnki.1001-5914.2024.02.007), 杨欣怡, 朱文泉, **<u>赵涔良</u>**, *环境与健康杂志*.
-- `RS 2023` [A Radiation-Regulated Dynamic Maximum Light Use Efficiency for Improving Gross Primary Productivity Estimation](https://doi.org/10.3390/rs15051176), Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, Yongshuo H.Fu
 - `极地研究 2023` [北极气候和陆地环境变化对工业影响的研究进展](https://doi.org/10.13679/j.jdyj.20220404), 郭红翔, 朱文泉, **<u>赵涔良</u>**, 陈力原, 谢志英, *极地研究*.
-- `地理学报 2023` [北极气候和陆地环境变化对第一产业影响研究进展](https://doi.org/10.11821/dlxb202211010), **<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 郭红翔, 陈力原, 谢志英
 - `RS 2022` [A Prediction Model for the Outbreak Date of Spring Pollen Allergy in Beijing Based on Satellite-Derived Phenological Characteristics of Vegetation Greenness](https://doi.org/10.3390/rs14225891), Xinyi Yang, Wenquan Zhu, **<u>Cenliang Zhao</u>**, *Remote Sensing*.
 - `EJRS 2022` [Phenological piecewise modelling is more conducive than whole-season modelling to winter wheat yield estimation based on remote sensing data](https://doi.org/10.1080/22797254.2022.2073916), Xin Huang, Wenquan Zhu, **<u>Cenliang Zhao</u>**, Zhiying Xie, Hui Zhang, *European Journal of Remote Sensing*.
-- `遥感学报 2021` [植被最大光能利用率的模拟方法对比评估](https://doi.org/10.11834/jrs.20211394), **<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 郭红翔, 陈力原, 谢志英
 - `北京师范大学学报（自然科学版） 2021` [基于多源数据产品集成分类制作的青藏高原现状植被图](https://doi.org/10.12202/j.0476-0301.2021171), 张慧, **<u>赵涔良</u>**, 朱文泉.
 
-## Others
+## Other publications
 - `ACCRE 2025` [The freezing‒thawing index and permafrost extent in pan-Arctic experienced rapid changes following the global warming hiatus](https://doi.org/10.1016/j.accre.2025.02.010), Hongxiang Guo, Wenquan Zhu, Cunde Xiao, **<u>Cenliang Zhao</u>**, Liyuan Chen, *Advances in Climate Change Research*.
 - `ACCRE 2025` [Degradation of potential winter roads threatens vulnerable communities’ freight accessibility in the pan-Arctic region](https://doi.org/10.1016/j.accre.2025.02.006), Liyuan Chen, Wenquan Zhu, Cunde Xiao, **<u>Cenliang Zhao</u>**, Hongxiang Guo, *Advances in Climate Change Research*.
 - `地理学报 2025` [青藏高原植被遥感精细识别方法研究](https://doi.org/10.11821/dlxb202501002), 张慧, 朱文泉, 史培军, 唐海萍, 何邦科, 刘若杨, 杨欣怡, **<u>赵涔良</u>**, *地理学报*
@@ -109,7 +111,7 @@ Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie
 - 朱文泉, 何邦科, **<u>赵涔良</u>**. 一种基于新型遥感指数的植被覆盖度估算方法, 专利号: ZL 2025105606779, 申请日: 2025-04-30.
 - 朱文泉, 杨欣怡, 刘若杨, **<u>赵涔良</u>**. 一种面向单时相影像的潜在地表异常遥感探测器构建方法, 专利号: 2023113429156, 申请日: 2023-10-17.
 - 朱文泉, 刘若杨, 杨欣怡, **<u>赵涔良</u>**. 一种测度图像空间有序性的距离编码多样性算法, 专利号: ZL 202211600454.3, 授权公告日: 2025-06-03.
-- 朱文泉, 何邦科, 谢志英, **<u>赵涔良</u>**. 一种基于曲线特征加权的植被指数时序数据函数拟合重建方法, 专利号: ZL 202210004927.7, 授权公告日: 2022-04-15.
+- 朱文泉, 何邦科, 谢志英, **<u>赵涔良</u>**. 一种基于曲线特征加权的植被指数时序数据函数拟合重建方法, 专利号: ZL 202210004927.7, 授权公告日: 2025-05-30.
 - 朱文泉, 詹培, **<u>赵涔良</u>**. 一种基于合成孔径雷达时序数据的水稻自动识别方法, 专利号: ZL 202010117995.5, 授权公告日: 2021-12-03.
 
 ## Program experience
@@ -173,5 +175,5 @@ Operated DJI Phantom 4 Pro drones for aerial data collection (20+ flight mission
 </div>
 
 # 🏫 Working and Teaching Activities
-- *2025.07 - now*, Postdoctoral Researcher, School of Geography and Planning, Sun Yat-sen University, Guangzhou, China
+- *2025.07 - now*, Postdoctoral Researcher, School of Geography and Planning, Sun Yat-sen University, Guangzhou, Guangdong, China
 - *2022.09 - 2023.12*, Teaching Assistant of [Remote Sensing Digital Image Processing](https://www.icourse163.org/course/BNU-1002335009) (国家精品课程-遥感数字图像处理), Faculty of Geographical Science, Beijing Normal University, Beijing, China

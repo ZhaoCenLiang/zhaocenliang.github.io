@@ -167,7 +167,7 @@ Replaced the old phenology camera and updated the battery and SIM card of soil m
 **The Second Tibetan Plateau Scientific Expedition and Research** <br>
 (**第二次青藏高原综合科学考察研究**) <br>
 Operated DJI Phantom 4 Pro drones for aerial data collection (20+ flight missions), generating high-resolution orthomosaic maps. Processed multispectral imagery with Pix4Dmapper to analyze vegetation coverage patterns. Compiled daily field logs.
-- *2021.07.25 - 2021.08.24* The Qilian Mountain, Qinghai province (青海祁连山脉). Survey Route: Xining(西宁) - Menyuan (门源) – Gangcha (刚察)– Dulan(都兰) – Maduo (玛多)– Xinghai (兴海) - Xining(西宁). <br>
+- *2021.07.25 - 2021.08.24* The Qilian Mountain, Qinghai province (青海祁连山脉). Survey route: Xining (西宁) - Menyuan (门源) – Gangcha (刚察)– Dulan (都兰) – Maduo (玛多)– Xinghai (兴海) - Xining (西宁). <br>
 <center><video width="320" height="240" controls>
 <source src="images/video.mp4" type="video/mp4">
 </video></center>

@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral researcher (born in 1997) at School of Geography and Planning, Sun Yat-sen University (中山大学地理科学与规划学院), Guangzhou, Guangdong, China, collabrating with Prof. [Xing Li (李星)](https://gp.sysu.edu.cn/teacher/LiXing).
+I am a postdoctoral researcher (born in 1997) at School of Geography and Planning, Sun Yat-sen University (中山大学 地理科学与规划学院), Guangzhou, Guangdong, China, collabrating with Prof. [Xing Li (李星)](https://gp.sysu.edu.cn/teacher/LiXing).
 
-I graduated from Faculty of Geographical Science, Beijing Normal University (北京师范大学地理科学学部) with a bachelor’s degree in Resources and Environmental Science. Then I received my Ph.D. degree in Cartography and Geography Information System at State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University (北京师范大学地理科学学部遥感科学国家重点实验室). My Ph.D. supervisor is Prof. [Wenquan Zhu (朱文泉)](https://geot.bnu.edu.cn/Public/htm/news/5/317.html).
+I graduated from Faculty of Geographical Science, Beijing Normal University (北京师范大学 地理科学学部) with a bachelor’s degree in Resources and Environmental Science. Then I received my Ph.D. degree in Cartography and Geography Information System at State Key Laboratory of Remote Sensing Science, Faculty of Geographical Science, Beijing Normal University (北京师范大学 地理科学学部 遥感科学国家重点实验室). My Ph.D. supervisor is Prof. [Wenquan Zhu (朱文泉)](https://geot.bnu.edu.cn/Public/htm/news/5/317.html).
 
 My research interests include carbon cycle modelling, quantitative remote sesning, digital image processing and climate change feedbacks. 
 
@@ -95,6 +95,7 @@ Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie
 - `北京师范大学学报（自然科学版） 2021` [基于多源数据产品集成分类制作的青藏高原现状植被图](https://doi.org/10.12202/j.0476-0301.2021171), 张慧, **<u>赵涔良</u>**, 朱文泉.
 
 ## Other publications
+- `ISPRS 2025` [An automated method for estimating fractional vegetation cover from camera-based field measurements: Saturation-adaptive threshold for ExG (SATE)](https://doi.org/10.1016/j.isprsjprs.2025.08.017), Xuemiao Ye, Wenquan Zhu, Ruoyang Liu, Bangke He, Xinyi Yang, **<u>Cenliang Zhao</u>**, *ISPRS Journal of Photogrammetry and Remote Sensing*.
 - `ACCRE 2025` [The freezing‒thawing index and permafrost extent in pan-Arctic experienced rapid changes following the global warming hiatus](https://doi.org/10.1016/j.accre.2025.02.010), Hongxiang Guo, Wenquan Zhu, Cunde Xiao, **<u>Cenliang Zhao</u>**, Liyuan Chen, *Advances in Climate Change Research*.
 - `ACCRE 2025` [Degradation of potential winter roads threatens vulnerable communities’ freight accessibility in the pan-Arctic region](https://doi.org/10.1016/j.accre.2025.02.006), Liyuan Chen, Wenquan Zhu, Cunde Xiao, **<u>Cenliang Zhao</u>**, Hongxiang Guo, *Advances in Climate Change Research*.
 - `地理学报 2025` [青藏高原植被遥感精细识别方法研究](https://doi.org/10.11821/dlxb202501002), 张慧, 朱文泉, 史培军, 唐海萍, 何邦科, 刘若杨, 杨欣怡, **<u>赵涔良</u>**, *地理学报*
@@ -109,7 +110,7 @@ Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie
 
 ## Patent
 - 朱文泉, 何邦科, **<u>赵涔良</u>**. 一种基于新型遥感指数的植被覆盖度估算方法, 专利号: ZL 2025105606779, 申请日: 2025-04-30.
-- 朱文泉, 杨欣怡, 刘若杨, **<u>赵涔良</u>**. 一种面向单时相影像的潜在地表异常遥感探测器构建方法, 专利号: 2023113429156, 申请日: 2023-10-17.
+- 朱文泉, 杨欣怡, 刘若杨, **<u>赵涔良</u>**. 一种面向单时相影像的潜在地表异常遥感探测器构建方法, 专利号: ZL 2023113429156, 授权公告日: 2025-08-22.
 - 朱文泉, 刘若杨, 杨欣怡, **<u>赵涔良</u>**. 一种测度图像空间有序性的距离编码多样性算法, 专利号: ZL 202211600454.3, 授权公告日: 2025-06-03.
 - 朱文泉, 何邦科, 谢志英, **<u>赵涔良</u>**. 一种基于曲线特征加权的植被指数时序数据函数拟合重建方法, 专利号: ZL 202210004927.7, 授权公告日: 2025-05-30.
 - 朱文泉, 詹培, **<u>赵涔良</u>**. 一种基于合成孔径雷达时序数据的水稻自动识别方法, 专利号: ZL 202010117995.5, 授权公告日: 2021-12-03.

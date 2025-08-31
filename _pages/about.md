@@ -95,6 +95,7 @@ Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie
 - `北京师范大学学报（自然科学版） 2021` [基于多源数据产品集成分类制作的青藏高原现状植被图](https://doi.org/10.12202/j.0476-0301.2021171), 张慧, **<u>赵涔良</u>**, 朱文泉.
 
 ## Other publications
+- `JAG 2025` [MSFDmap: A novel scheme to map monthly soil freeze depth in the pan-Arctic considering spatiotemporal heterogeneity in heat transfer capability](https://doi.org/10.1016/j.jag.2025.104820), Liyuan Chen, Wenquan Zhu, Cunde Xiao, **<u>Cenliang Zhao</u>**, Hongxiang Guo, *International Journal of Applied Earth Observation and Geoinformation*.
 - `ISPRS 2025` [An automated method for estimating fractional vegetation cover from camera-based field measurements: Saturation-adaptive threshold for ExG (SATE)](https://doi.org/10.1016/j.isprsjprs.2025.08.017), Xuemiao Ye, Wenquan Zhu, Ruoyang Liu, Bangke He, Xinyi Yang, **<u>Cenliang Zhao</u>**, *ISPRS Journal of Photogrammetry and Remote Sensing*.
 - `ACCRE 2025` [The freezing‒thawing index and permafrost extent in pan-Arctic experienced rapid changes following the global warming hiatus](https://doi.org/10.1016/j.accre.2025.02.010), Hongxiang Guo, Wenquan Zhu, Cunde Xiao, **<u>Cenliang Zhao</u>**, Liyuan Chen, *Advances in Climate Change Research*.
 - `ACCRE 2025` [Degradation of potential winter roads threatens vulnerable communities’ freight accessibility in the pan-Arctic region](https://doi.org/10.1016/j.accre.2025.02.006), Liyuan Chen, Wenquan Zhu, Cunde Xiao, **<u>Cenliang Zhao</u>**, Hongxiang Guo, *Advances in Climate Change Research*.

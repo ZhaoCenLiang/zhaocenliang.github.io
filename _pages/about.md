@@ -145,7 +145,7 @@ As the team leader of field experiment, I conducted 10+ satellite synchronous gr
 - *2023.09.24 - 2023.09.28* Saihanba, Heibei province (河北塞罕坝)
 - *2023.08.10 - 2023.08.17* Gaoyou, Jiangsu province (江苏高邮)
 - *2023.07.27 - 2023.07.30* Saihanba, Heibei province (河北塞罕坝)
-- *2023.07.10 - 2023.07.24* Beitun, Xinjiang province (新疆北屯) [Media Report](http://www.bts.gov.cn/c/2023-07-19/2879847.shtml)
+- *2023.07.10 - 2023.07.24* Beitun, Xinjiang province (新疆北屯) [Media Report](https://article.xuexi.cn/articles/index.html?art_id=5453280297232469863&source=share&cdn=https%3A%2F%2Fregion-xjbt-resource&study_style_id=feeds_opaque&reco_id=102433abf5b3c0a886600005&share_to=wx_single&study_share_enable=1&study_comment_disable=1&ptype=0&item_id=5453280297232469863)
 - *2023.06.12 - 2023.06.17* Gaoyou, Jiangsu province (江苏高邮)
 - *2023.05.31 - 2023.06.12* Beitun, Xinjiang province (新疆北屯)
 - *2023.05.21 - 2023.05.30* Jiusan, Heilongjiang province (黑龙江九三)

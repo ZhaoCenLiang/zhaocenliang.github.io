@@ -87,6 +87,7 @@ Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie
 - `遥感学报 2021` [植被最大光能利用率的模拟方法对比评估](https://doi.org/10.11834/jrs.20211394), **<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 郭红翔, 陈力原, 谢志英
 
 ## As main co-author
+- `RSE 2025` [A novel index for directly indicating fractional vegetation cover based on spectral differences between vegetation and soil](https://doi.org/10.1016/j.rse.2025.115056), Bangke He, Wenquan Zhu, **<u>Cenliang Zhao</u>**, Zhiying Xie, Huimin Zhuang, *Remote Sensing of Environment*.
 - `GIScience & RS 2024` [Remote sensing of terrestrial gross primary productivity: a review of advances in theoretical foundation, key parameters and methods](https://doi.org/10.1080/15481603.2024.2318846), Wenquan Zhu, Zhiying Xie, **<u>Cenliang Zhao</u>**, Zhoutao Zheng, Kun Qiao, Dailiang Peng, Yongshuo H.Fu, *GIScience & Remote Sensing*.
 - `环境与健康杂志 2024` [基于微博数据的2011—2021年北京市花粉过敏暴发起止日期提取及变化分析](https://doi.org/10.16241/j.cnki.1001-5914.2024.02.007), 杨欣怡, 朱文泉, **<u>赵涔良</u>**, *环境与健康杂志*.
 - `极地研究 2023` [北极气候和陆地环境变化对工业影响的研究进展](https://doi.org/10.13679/j.jdyj.20220404), 郭红翔, 朱文泉, **<u>赵涔良</u>**, 陈力原, 谢志英, *极地研究*.

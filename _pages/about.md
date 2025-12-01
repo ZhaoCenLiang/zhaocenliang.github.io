@@ -142,16 +142,16 @@ Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie
 (**中国科学院空天信息创新研究院野外同步测量类数据集**) <br>
 As the team leader of field experiment, I conducted 10+ satellite synchronous ground observation experiments across multiple locations (including refelctance (地表反射率), water-leaving radiance (离水辐射率), albedo (地表反照率), emissivity (地表发射率), landsurface temperature (地表温度), FVC (植被覆盖度), vegetation type and phenology (植被类型和物候)).
 - *2023.10.21 - 2023.10.26* Zhuhai, Guangdong province (广东珠海)
-- *2023.09.24 - 2023.09.28* Saihanba, Heibei province (河北塞罕坝)
+- *2023.09.24 - 2023.09.28* Saihanba, Hebei province (河北塞罕坝)
 - *2023.08.10 - 2023.08.17* Gaoyou, Jiangsu province (江苏高邮)
-- *2023.07.27 - 2023.07.30* Saihanba, Heibei province (河北塞罕坝)
+- *2023.07.27 - 2023.07.30* Saihanba, Hebei province (河北塞罕坝)
 - *2023.07.10 - 2023.07.24* Beitun, Xinjiang province (新疆北屯) [Media Report](https://article.xuexi.cn/articles/index.html?art_id=5453280297232469863&source=share&cdn=https%3A%2F%2Fregion-xjbt-resource&study_style_id=feeds_opaque&reco_id=102433abf5b3c0a886600005&share_to=wx_single&study_share_enable=1&study_comment_disable=1&ptype=0&item_id=5453280297232469863)
 - *2023.06.12 - 2023.06.17* Gaoyou, Jiangsu province (江苏高邮)
 - *2023.05.31 - 2023.06.12* Beitun, Xinjiang province (新疆北屯)
 - *2023.05.21 - 2023.05.30* Jiusan, Heilongjiang province (黑龙江九三)
 - *2023.02.24 - 2023.03.06* Zhuhai, Guangdong province (广东珠海)
 - *2022.09.16 - 2022.09.23* Jiusan, Heilongjiang province (黑龙江九三)
-- *2022.09.03 - 2022.09.10* Saihanba, Heibei province (河北塞罕坝)
+- *2022.09.03 - 2022.09.10* Saihanba, Hebei province (河北塞罕坝)
 
 </div>
 </div>
@@ -160,7 +160,7 @@ As the team leader of field experiment, I conducted 10+ satellite synchronous gr
 <div class='paper-box-text' markdown="1">
 **Instrument maintenance** <br>
 Replaced the old phenology camera and updated the battery and SIM card of soil moisture monitors.
-- *2022.07.21 - 2022.07.25* Saihanba, Heibei province (河北塞罕坝)
+- *2022.07.21 - 2022.07.25* Saihanba, Hebei province (河北塞罕坝)
 
 </div>
 </div>

@@ -23,11 +23,11 @@ I graduated from Faculty of Geographical Science, Beijing Normal University (北
 
 My research interests include carbon cycle modelling, quantitative remote sesning, digital image processing and climate change feedbacks. 
 
-I have published more than 20+ papers with <a href='https://scholar.google.com/citations?user=deR-tUkAAAAJ'>h-index = <strong><span id='total_cit'>6</span></strong></a>.
+I have published more than 20+ papers with <a href='https://scholar.google.com/citations?user=deR-tUkAAAAJ'>h-index = <strong><span id='total_cit'>7</span></strong></a>.
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉 I got the Ph.D. degree in Cartography and Geography Information System. 
-- *2025.04*: &nbsp;🎉 The global carborn cycle dataset ([ETES-GPP](https://doi.org/10.1016/j.agrformet.2023.109337) and [CIML-TER](https://doi.org/10.1016/j.agrformet.2025.110718), 0.05 degree, monthly) are officially online at [BNU dataset center](https://rsec.bnu.edu.cn/download/carbonCycle.html).
+- *2025.04*: &nbsp;🎉 The global carborn cycle dataset ([ETES-GPP](https://doi.org/10.1016/j.agrformet.2023.109337) and [CIML-TER](https://doi.org/10.1038/s43247-025-02240-1), 0.05 degree, monthly) are officially online at [BNU dataset center](https://rsec.bnu.edu.cn/download/carbonCycle.html).
 - *2023.10*: &nbsp;👍 We have completed an 13-month-long field experiment, acquiring a satellite-ground synchronous in-situ dataset (including radiation and vegetation parameters) of Chinese satellites (GF-1/2/3/4/6/7, ZY1-02D/02E, HJ-2A/B).
 
 # 💻 Skills

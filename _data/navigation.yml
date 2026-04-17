@@ -15,11 +15,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Field Research and Experimentation"
-    url: "/#-field-research-and-experimentation"
+  - title: "Field Research"
+    url: "/#-field-research"
     
-  - title: "Oral presentation"
-    url: "/#-oral-presentation"
+  - title: "Oral Presentation"
+    url: "/#-oral presentation"
 
-  - title: "Working and Teaching Activities"
-    url: "/#-working-and-teaching-activities"
+  - title: "Working Activities"
+    url: "/#-working-activities"

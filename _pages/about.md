@@ -175,7 +175,7 @@ Operated DJI Phantom 4 Pro drones for aerial data collection (20+ flight mission
 </div>
 </div>
 
-#️ 🏫 Oral Presentation
+# Oral Presentation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">202604 第11届地学青年论坛</div><img src='images/Meeting_202604.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **The 11th Young Scientist Forum of Earth Science** <br>

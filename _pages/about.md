@@ -123,7 +123,7 @@ Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie
 - **国家重点研发计划课题**, "北极陆地环境变化对人类社会致利致害效应评估", *2020.11 — 2025.06*, **研究骨干**
 - **第二次青藏科考研究项目**, "生物地球化学循环与环境健康"任务二之子专题“青藏高原植被图修订与更新”, *2020.06 — 2022.10*, **研究骨干**
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2024.01* Academic Innovation Award of Beijing Normal University 
 - *2023.12* Top Scholarship Award, Beijing Normal University (Postgraduate)
 - *2018.12* Top Scholarship Award, Beijing Normal University (Undergraduate)
@@ -176,6 +176,36 @@ Operated DJI Phantom 4 Pro drones for aerial data collection (20+ flight mission
 </video></center>
 </div>
 </div>
+
+# 🗣️ Oral presentation
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">202604 第11届地学青年论坛</div><img src='images/Meeting_202604.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**The 11th Young Scientist Forum of Earth Science** <br>
+(**第11届地学青年论坛**) <br>
+Section 7.1 Terrestrial Phenology and carbon cycle under global warming (全球变化下的陆地生态系统物候与碳循环)
+- *2026.04.11 14:18-14:30*  
+- Title: Embedding thermal adaptation into ecosystem respiration modelling: the global unimodal temperature sensitivity pattern.
+</video></center>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">202508 第2届全国信息地理学大会</div><img src='images/Meeting_202508.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**The 2nd National Conference on Information Geography** <br>
+(**第2届全国信息地理学大会**) <br>
+Section 3.7 Remote sensing of terrestrial carbon cycle (陆地碳循环遥感)
+- *2025.08.20 09:25-09:40*  
+- Title: Optimizaing global ecosystem respiration estimation via combining with causal inference.
+</video></center>
+</div>
+</div>
+
 
 # 🏫 Working and Teaching Activities
 - *2025.07 - now*, Postdoctoral Researcher, School of Geography and Planning, Sun Yat-sen University, Guangzhou, Guangdong, China

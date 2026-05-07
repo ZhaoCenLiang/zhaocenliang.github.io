@@ -23,7 +23,7 @@ I graduated from Faculty of Geographical Science, Beijing Normal University (北
 
 My research interests include carbon cycle modelling, quantitative remote sesning, digital image processing and climate change feedbacks. 
 
-I have published more than 20+ papers with <a href='https://scholar.google.com/citations?user=deR-tUkAAAAJ'>h-index = <strong><span id='total_cit'>7</span></strong></a>.
+I have published more than 20+ papers with <a href='https://scholar.google.com/citations?user=deR-tUkAAAAJ'>h-index = <strong><span id='total_cit'>8</span></strong></a>.
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉 I got the Ph.D. degree in Cartography and Geography Information System. 

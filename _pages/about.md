@@ -177,6 +177,17 @@ Operated DJI Phantom 4 Pro drones for aerial data collection (20+ flight mission
 
 # 🗣️ Conference
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">202604 第3届人工智能与遥感科学交叉论坛</div><img src='images/Meeting_202605.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**The 3rd Cross-Disciplinary Forum on Artifical Intelligence and Remote Sensing** <br>
+(**第3届人工智能与遥感科学交叉论坛届地学青年论坛**) <br>
+Section 4.9 Extreme climates and terrestrial ecosystem <br>
+(专题4.9 极端气候与陆地生态系统) <br>
+- *2026.05.16 18:05-18:20*  
+- Title: Mechanistic insights into the unimodal temperature response of terrestrial ecosystem respiration.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">202604 第11届地学青年论坛</div><img src='images/Meeting_202604.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **The 11th Young Scientist Forum of Earth Science** <br>

@@ -177,7 +177,7 @@ Operated DJI Phantom 4 Pro drones for aerial data collection (20+ flight mission
 
 # 🗣️ Conference
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">202604 第3届人工智能与遥感科学交叉论坛</div><img src='images/Meeting_202605.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">202605 第3届人工智能与遥感科学交叉论坛</div><img src='images/Meeting_202605.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **The 3rd Cross-Disciplinary Forum on Artifical Intelligence and Remote Sensing** <br>
 (**第3届人工智能与遥感科学交叉论坛届地学青年论坛**) <br>

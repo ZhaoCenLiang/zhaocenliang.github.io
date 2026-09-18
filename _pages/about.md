@@ -23,7 +23,7 @@ I graduated from Faculty of Geographical Science, Beijing Normal University (北
 
 My research interests include carbon cycle modelling, quantitative remote sesning, digital image processing and climate change feedbacks. 
 
-I have published more than 20+ papers with <a href='https://scholar.google.com/citations?user=deR-tUkAAAAJ'>h-index = <strong><span id='total_cit'>10</span></strong></a>.
+I have published more than 20+ papers with <a href='https://scholar.google.com/citations?user=deR-tUkAAAAJ'>h-index = <strong><span id='total_cit'>11</span></strong></a>.
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉 I got the Ph.D. degree in Cartography and Geography Information System. 
@@ -96,6 +96,7 @@ Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie
 - `北京师范大学学报（自然科学版） 2021` [基于多源数据产品集成分类制作的青藏高原现状植被图](https://doi.org/10.12202/j.0476-0301.2021171), 张慧, **<u>赵涔良</u>**, 朱文泉.
 
 ## Other publications
+- `ESSD2026` [EGO: a global 0.05° hourly GPP dataset for monitoring diurnal photosynthesis dynamics](https://doi.org/10.5194/essd-18-6613-2026), Xi Liu, Xing Li, Dalei Hao, Jingfeng Xiao, Yanan Zhou, **<u>Cenliang Zhao</u>**, Zikang Diao, Fuqiang Qu, Shangrong Lin, Xiangzhuo Liu, Zhaoying Zhang, Xinjie Liu, and Helin Zhang, *Earth System Science Data*.
 - `JAG 2025` [MSFDmap: A novel scheme to map monthly soil freeze depth in the pan-Arctic considering spatiotemporal heterogeneity in heat transfer capability](https://doi.org/10.1016/j.jag.2025.104820), Liyuan Chen, Wenquan Zhu, Cunde Xiao, **<u>Cenliang Zhao</u>**, Hongxiang Guo, *International Journal of Applied Earth Observation and Geoinformation*.
 - `ISPRS 2025` [An automated method for estimating fractional vegetation cover from camera-based field measurements: Saturation-adaptive threshold for ExG (SATE)](https://doi.org/10.1016/j.isprsjprs.2025.08.017), Xuemiao Ye, Wenquan Zhu, Ruoyang Liu, Bangke He, Xinyi Yang, **<u>Cenliang Zhao</u>**, *ISPRS Journal of Photogrammetry and Remote Sensing*.
 - `ACCRE 2025` [The freezing‒thawing index and permafrost extent in pan-Arctic experienced rapid changes following the global warming hiatus](https://doi.org/10.1016/j.accre.2025.02.010), Hongxiang Guo, Wenquan Zhu, Cunde Xiao, **<u>Cenliang Zhao</u>**, Liyuan Chen, *Advances in Climate Change Research*.

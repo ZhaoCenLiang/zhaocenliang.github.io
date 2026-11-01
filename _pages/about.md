@@ -81,9 +81,9 @@ Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie
 </div>
 
 - `TEE 2024`[Uncertainty analysis of intra-module environmental stress parameter design in light use efficiency-based gross primary productivity estimation models](https://doi.org/10.1177/2754124X241235545), **<u>Cenliang Zhao</u>**, Wenquan Zhu<sup>✉️</sup>, *Transactions in Earth, Environment, and Sustainability*.
-- `RS 2023` [A Radiation-Regulated Dynamic Maximum Light Use Efficiency for Improving Gross Primary Productivity Estimation](https://doi.org/10.3390/rs15051176), Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, Yongshuo H.Fu
-- `地理学报 2022` [北极气候和陆地环境变化对第一产业影响研究进展](https://doi.org/10.11821/dlxb202211010), **<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 郭红翔, 陈力原, 谢志英
-- `遥感学报 2021` [植被最大光能利用率的模拟方法对比评估](https://doi.org/10.11834/jrs.20211394), **<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 郭红翔, 陈力原, 谢志英
+- `RS 2023` [A Radiation-Regulated Dynamic Maximum Light Use Efficiency for Improving Gross Primary Productivity Estimation](https://doi.org/10.3390/rs15051176), Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, Yongshuo H.Fu, *Remote Sensing*.
+- `地理学报 2022` [北极气候和陆地环境变化对第一产业影响研究进展](https://doi.org/10.11821/dlxb202211010), **<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 郭红翔, 陈力原, 谢志英, *地理学报*.
+- `遥感学报 2021` [植被最大光能利用率的模拟方法对比评估](https://doi.org/10.11834/jrs.20211394), **<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 郭红翔, 陈力原, *遥感学报*.
 
 ## As main co-author
 - `RSE 2025` [A novel index for directly indicating fractional vegetation cover based on spectral differences between vegetation and soil](https://doi.org/10.1016/j.rse.2025.115056), Bangke He, Wenquan Zhu, **<u>Cenliang Zhao</u>**, Zhiying Xie, Huimin Zhuang, *Remote Sensing of Environment*.
@@ -92,7 +92,7 @@ Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie
 - `极地研究 2023` [北极气候和陆地环境变化对工业影响的研究进展](https://doi.org/10.13679/j.jdyj.20220404), 郭红翔, 朱文泉, **<u>赵涔良</u>**, 陈力原, 谢志英, *极地研究*.
 - `RS 2022` [A Prediction Model for the Outbreak Date of Spring Pollen Allergy in Beijing Based on Satellite-Derived Phenological Characteristics of Vegetation Greenness](https://doi.org/10.3390/rs14225891), Xinyi Yang, Wenquan Zhu, **<u>Cenliang Zhao</u>**, *Remote Sensing*.
 - `EJRS 2022` [Phenological piecewise modelling is more conducive than whole-season modelling to winter wheat yield estimation based on remote sensing data](https://doi.org/10.1080/22797254.2022.2073916), Xin Huang, Wenquan Zhu, **<u>Cenliang Zhao</u>**, Zhiying Xie, Hui Zhang, *European Journal of Remote Sensing*.
-- `北京师范大学学报（自然科学版） 2021` [基于多源数据产品集成分类制作的青藏高原现状植被图](https://doi.org/10.12202/j.0476-0301.2021171), 张慧, **<u>赵涔良</u>**, 朱文泉.
+- `北京师范大学学报（自然科学版） 2021` [基于多源数据产品集成分类制作的青藏高原现状植被图](https://doi.org/10.12202/j.0476-0301.2021171), 张慧, **<u>赵涔良</u>**, 朱文泉, *北京师范大学学报（自然科学版）*.
 
 ## Other publications
 - `ESSD 2026` [EGO: a global 0.05° hourly GPP dataset for monitoring diurnal photosynthesis dynamics](https://doi.org/10.5194/essd-18-6613-2026), Xi Liu, Xing Li, Dalei Hao, Jingfeng Xiao, Yanan Zhou, **<u>Cenliang Zhao</u>**, Zikang Diao, Fuqiang Qu, Shangrong Lin, Xiangzhuo Liu, Zhaoying Zhang, Xinjie Liu, and Helin Zhang, *Earth System Science Data*.

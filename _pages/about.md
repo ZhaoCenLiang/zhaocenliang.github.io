@@ -41,9 +41,9 @@ I have published more than 20+ papers with <a href='https://scholar.google.com/c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2026</div><img src='images/NC_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mechanistic insights into the unimodal temperature response of terrestrial ecosystem respiration]
+Mechanistic insights into the unimodal temperature response of terrestrial ecosystem respiration
 
-*Nature Communications* <br> Under 2nd round review
+*Nature Communications* Under 2nd round review <br> 
 **<u>Cenliang Zhao</u>**, Xing Li<sup>✉️</sup>, Shuli Niu, Jiangong Liu, Xiangzhong Luo, Jingyu Lin, Wenquan Zhu, Xiaoping Liu<sup>✉️</sup>
 
 - A semi-mechanistic framework for describing ecosystem-scale unimodal temperature responses of TER (i.e., thermal adaptation).

@@ -26,7 +26,8 @@ My research interests include carbon cycle modelling, quantitative remote sesnin
 I have published more than 20+ papers with <a href='https://scholar.google.com/citations?user=deR-tUkAAAAJ'>h-index = <strong><span id='total_cit'>11</span></strong></a>.
 
 # 🔥 News
-- *2026.08*: &nbsp;👍 I was awarded the **NSFC Youth Program** (Youth Science Fund) for research on the thermal adaptation of terrestrial ecosystem respiration.
+- *2026.11*: &nbsp;🎊 I was awarded the **China Postdoctoral Science Foundation** (中国博士后科学基金面上资助) for research on the optimization of Community Land Model.
+- *2026.08*: &nbsp;👍 I was awarded the **NSFC Youth Program** (国家自然科学基金-青年科学基金项目C类) for research on the thermal adaptation of terrestrial ecosystem respiration.
 - *2025.05*: &nbsp;🎉 I got the Ph.D. degree in **Cartography and Geography Information System**. 
 
 # 💻 Skills
@@ -37,12 +38,26 @@ I have published more than 20+ papers with <a href='https://scholar.google.com/c
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NC 2026</div><img src='images/NC_2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mechanistic insights into the unimodal temperature response of terrestrial ecosystem respiration]
+
+*Nature Communications* <br> Under 2nd round review
+**<u>Cenliang Zhao</u>**, Xing Li<sup>✉️</sup>, Shuli Niu, Jiangong Liu, Xiangzhong Luo, Jingyu Lin, Wenquan Zhu, Xiaoping Liu<sup>✉️</sup>
+
+- A semi-mechanistic framework for describing ecosystem-scale unimodal temperature responses of TER (i.e., thermal adaptation).
+- The first thermodynamically constrained global pattern of TER’s unimodal temperature responses (T<sup>ER</sup><sub>opt</sub> and ΔC<sup>‡</sup><sub>P</sub>).
+- The unimodal thermal responses of TER are likely to become flatter and shift towards higher thermal optima under continued global warming.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AFM 2025</div><img src='images/AFM_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Causality constrained machine learning framework enhances the reliability and spatiotemporal generalization in ecosystem respiration estimation](https://doi.org/10.1016/j.agrformet.2025.110718)
 
-*Agricultural and Forest Meteorology* (中科院1区Top, JCR-Q1) <br>
+*Agricultural and Forest Meteorology* <br>
 **<u>Cenliang Zhao</u>**, Wenquan Zhu<sup>✉️</sup>, Liyuan Chen, Zhiying Xie
 
 - A novel framework taking causal effects as soft constraints into machine learning models.
@@ -57,7 +72,7 @@ I have published more than 20+ papers with <a href='https://scholar.google.com/c
 
 [Vegetation structure and phenology primarily shape the spatiotemporal pattern of ecosystem respiration](https://doi.org/10.1038/s43247-025-02240-1)
 
-*Communications Earth & Environment* (中科院1区Top, JCR-Q1) <br>
+*Communications Earth & Environment* <br>
 **<u>Cenliang Zhao</u>**, Wenquan Zhu<sup>✉️</sup>
 
 - We applied a causality constrained interpretable machine learning framework (PCMCI+, XGBoost, SHAP) and established a TER estimation model called “CIML-TER”.
@@ -66,22 +81,9 @@ I have published more than 20+ papers with <a href='https://scholar.google.com/c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AFM 2023</div><img src='images/AFM_2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[An end-to-end satellite-based GPP estimation model devoid of meteorological and land cover data](https://doi.org/10.1016/j.agrformet.2023.109337)
-
-*Agricultural and Forest Meteorology* (中科院1区Top, JCR-Q1) <br>
-Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie
-
-- Build a new GPP estimation model (ETES) based entirely on remote sensing data.
-- Design a continuous variable set (SCVTG) to replace PFTs in GPP estimation.
-- ETES model improves the GPP estimation accuracy at multiple temporal scales. 
-</div>
-</div>
-
 - `TEE 2024`[Uncertainty analysis of intra-module environmental stress parameter design in light use efficiency-based gross primary productivity estimation models](https://doi.org/10.1177/2754124X241235545), **<u>Cenliang Zhao</u>**, Wenquan Zhu<sup>✉️</sup>, *Transactions in Earth, Environment, and Sustainability*.
 - `RS 2023` [A Radiation-Regulated Dynamic Maximum Light Use Efficiency for Improving Gross Primary Productivity Estimation](https://doi.org/10.3390/rs15051176), Zhiying Xie, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Wenquan Zhu, Hui Zhang, Yongshuo H.Fu, *Remote Sensing*.
+- `AFM 2023` [An end-to-end satellite-based GPP estimation model devoid of meteorological and land cover data](https://doi.org/10.1016/j.agrformet.2023.109337), Wenquan Zhu, **<u>Cenliang Zhao<sup>✉️</sup></u>**, Zhiying Xie, *Agricultural and Forest Meteorology*.
 - `地理学报 2022` [北极气候和陆地环境变化对第一产业影响研究进展](https://doi.org/10.11821/dlxb202211010), **<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 郭红翔, 陈力原, 谢志英, *地理学报*.
 - `遥感学报 2021` [植被最大光能利用率的模拟方法对比评估](https://doi.org/10.11834/jrs.20211394), **<u>赵涔良</u>**, 朱文泉<sup>✉️</sup>, 郭红翔, 陈力原, *遥感学报*.
 

@@ -26,7 +26,7 @@ My research interests include carbon cycle modelling, quantitative remote sesnin
 I have published more than 20+ papers with <a href='https://scholar.google.com/citations?user=deR-tUkAAAAJ'>h-index = <strong><span id='total_cit'>11</span></strong></a>.
 
 # 🔥 News
-- *2026.11*: &nbsp;🎊 I was awarded the **China Postdoctoral Science Foundation** (中国博士后科学基金面上资助) for research on the optimization of Community Land Model.
+- *2026.11*: &nbsp;🎊 I was awarded the **China Postdoctoral Science Foundation** (中国博士后科学基金面上资助) for research on the optimization of carbon cycle module in DGVMs and CLMs.
 - *2026.08*: &nbsp;👍 I was awarded the **NSFC Youth Program** (国家自然科学基金-青年科学基金项目C类) for research on the thermal adaptation of terrestrial ecosystem respiration.
 - *2025.05*: &nbsp;🎉 I got the Ph.D. degree in **Cartography and Geography Information System**. 
 
